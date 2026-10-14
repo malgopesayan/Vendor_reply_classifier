@@ -1,0 +1,80 @@
+{
+  "dataset": {
+    "total": 1200,
+    "train": 720,
+    "val": 120,
+    "test": 360,
+    "classes": 10,
+    "train_templates_per_class": 6
+  },
+  "baseline_tfidf_logreg": {
+    "accuracy": 0.7444,
+    "macro_f1": 0.7411,
+    "train_seconds": 0.37
+  },
+  "pytorch_embeddingbag": {
+    "accuracy_mean": 0.6978,
+    "accuracy_std": 0.0242,
+    "macro_f1_mean": 0.6809,
+    "macro_f1_std": 0.03,
+    "seeds": [
+      {
+        "seed": 42,
+        "accuracy": 0.6806,
+        "macro_f1": 0.6642,
+        "train_seconds": 34.81
+      },
+      {
+        "seed": 1,
+        "accuracy": 0.7361,
+        "macro_f1": 0.7341,
+        "train_seconds": 33.93
+      },
+      {
+        "seed": 7,
+        "accuracy": 0.7111,
+        "macro_f1": 0.6862,
+        "train_seconds": 33.23
+      },
+      {
+        "seed": 3,
+        "accuracy": 0.6944,
+        "macro_f1": 0.6758,
+        "train_seconds": 33.23
+      },
+      {
+        "seed": 11,
+        "accuracy": 0.6667,
+        "macro_f1": 0.6444,
+        "train_seconds": 31.7
+      }
+    ]
+  },
+  "pytorch_top_confusions_seed42": [
+    [
+      "DISPUTES_DATA",
+      "STATUS_REQUEST",
+      12
+    ],
+    [
+      "MEETING_REQUEST",
+      "STATUS_REQUEST",
+      12
+    ],
+    [
+      "STATUS_REQUEST",
+      "DISPUTES_DATA",
+      12
+    ],
+    [
+      "WILL_AMEND",
+      "ALREADY_CORRECTED",
+      12
+    ],
+    [
+      "ALREADY_CORRECTED",
+      "STATUS_REQUEST",
+      11
+    ]
+  ]
+}

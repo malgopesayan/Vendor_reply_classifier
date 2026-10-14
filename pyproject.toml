@@ -1,0 +1,13 @@
+[project]
+name = "vendor-reply-classifier"
+version = "0.1.0"
+description = "Classifies vendor replies to GST mismatch emails into intents with PyTorch and scikit-learn."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 120
+src = ["src"]

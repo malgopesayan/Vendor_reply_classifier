@@ -1,0 +1,1201 @@
+text,label,split,template_id
+"hi, we would like to meet your accounts team to reconcile all open invoices. thank you.",MEETING_REQUEST,train,MEETING_REQUEST_3
+"Hello, We acknowledge receipt of your reminder for October.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_4
+"Respected Sir, Kindly share your phone number so we can discuss SI-14643 directly. Thanks and regards.",MEETING_REQUEST,train,MEETING_REQUEST_4
+"Dear Team, We are awaiting your confirmation on the status of TI/54581. Please update.",STATUS_REQUEST,train,STATUS_REQUEST_1
+"dear team, please allow us till january to amend the details of ti/84748 on the portal. thank you.",WILL_AMEND,test,WILL_AMEND_8
+"hello, we passed a credit note in may for bl-49330, so net tax is lower than your books.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_9
+"Dear Sir, I am no longer handling this vendor account; my colleague will reply on SI19711. Thanks and regards.",CONTACT_CHANGE,test,CONTACT_CHANGE_9
+"Respected Sir, The mismath reflects the credit note for short supply against invoice TI/30829.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_8
+"Please verify your data, we never issued invoice BL-59454 in September.",DISPUTES_DATA,test,DISPUTES_DATA_7
+"Dear Team, We propose a meeting within 6 days settle the open differences. Regards.",MEETING_REQUEST,test,MEETING_REQUEST_8
+"Respected Sir, Please advise if the matter regarding BL79636 has been closed at your end.",STATUS_REQUEST,test,STATUS_REQUEST_9
+"Hi, I am no longer handling this account; my colleague will reply on SI/55752. Best regards, Accounts Team.",CONTACT_CHANGE,test,CONTACT_CHANGE_9
+"Hi, Please allow us till July to amend the details of SI-50140 on the portal. Regards.",WILL_AMEND,test,WILL_AMEND_8
+"Hello, We acknowledge receipt of your reminder for Decmber.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_4
+"Dear Madam, Kindly share your phone number so we can discuss GST42297 directly. Thank you.",MEETING_REQUEST,train,MEETING_REQUEST_4
+"respected sir, we have reported si/89511 correctly in gstr-1; the error is in your booking.",DISPUTES_DATA,train,DISPUTES_DATA_4
+"Please update the vendor contact details, the new email is copied here. Best regards, Accounts Team.",CONTACT_CHANGE,test,CONTACT_CHANGE_7
+"Hello, The ship-to and bill-to GSTIN on invoice GST-24214 were swapped by mistake. Regards, Finance Dept.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_9
+"Dear Madam, Attaching the relevant invoice BL/89407 and our ledger extract for November. Best regards, Accounts Team.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_9
+"Respected Sir, The reduction on BL10166 is on account of a discount credit note of Rs 94,573. Thanks and regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_5
+"Dear Sir, Thank you, we have forwarded this to the concerned person. Regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_6
+We are awaiting your confirmation on the status of BL-46656. Please update. Regards.,STATUS_REQUEST,train,STATUS_REQUEST_1
+"Hi, This issue is already resolved. The revised invoice BL-9094 is now visible on the portal. Best regards, Accounts Team.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_2
+Noted with thanks. Thank you.,ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_2
+"hi, enclosed herewith the documents for ti-35649 for your verification. thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_4
+"respected sir, the mismatch was sorted out in april; nothing is pending from our side for gst32139. regards.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_9
+"Received your mail, we will check and revert.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_1
+"Dear Madam, Please allow us till February to the details of INV/75928 on the portal. Regards, Finance Dept.",WILL_AMEND,test,WILL_AMEND_8
+"PFA the scanned invoice GST/29632 along with the delivery challan. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_3
+"Hello, Kindly direct all GST queries to our central accounts mailbox from now on. Regards, Finance Dept.",CONTACT_CHANGE,test,CONTACT_CHANGE_8
+"Hello, The invoice INV-75352 belongs to your other plant; it was billed to GSTIN 15SSFED2638K1ZZ. Thank you.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_1
+"Dear Team, The amount of Rs 719,239 you have booked is wrong; our invoice GST40462 says otherwise. Thank you.",DISPUTES_DATA,test,DISPUTES_DATA_8
+"Adding our GST team in this mail, they will handle the reconciliation now. Regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_3
+"Dear Sir, Please recheck, BL58984 was rectified in the July return and the status shows filed. Thanks and regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_6
+"Dear Team, The difference in GST-81586 is because we issued a credit note of Rs 381,483 against it. Best regards, Accounts Team.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_0
+"Dear Madam, We have noted the difference in invoice BL42245 and will amend it in the July return. Thanks and regards.",WILL_AMEND,train,WILL_AMEND_0
+"dear sir, it will be easier to resolve this over a meeting. please share a convenient time. thank you.",MEETING_REQUEST,train,MEETING_REQUEST_1
+"Hello, Enclosed herewith the documents for TI-25498 for your verification. Regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_4
+"Hi, Please share the current status of the reconciliation for August. Thanks and regards.",STATUS_REQUEST,train,STATUS_REQUEST_3
+"Hi, Request you to confirm if our earlier correction for GST-84835 is accepted. Best regards, Accounts Team.",STATUS_REQUEST,train,STATUS_REQUEST_5
+"Respected Sir, We have attached the GSTR-1 filing screenshot showing BL1157. Thank you.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_5
+"Dear Madam, Please note GST16760 was issued to another party, not to your organisation. Best regards, Accounts Team.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_8
+"Dear Madam, The gap of Rs 840,514 is due to the credit note issued in November against TI-40131. Regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_2
+"Respected Sir, Request a short video call this week to close the pending mismatches. Best regards, Accounts Team.",MEETING_REQUEST,train,MEETING_REQUEST_5
+"dear madam, kindly update our email id in your records; the old mailbox is no longer monitored. regards, finance dept.",CONTACT_CHANGE,train,CONTACT_CHANGE_2
+"Dear Madam, Our company has a new point of contact for GST matters from June. Regards, Finance Dept.",CONTACT_CHANGE,train,CONTACT_CHANGE_5
+"We accept the mismatch and fix it in the next GSTR-1, which is due in September. Thanks and regards.",WILL_AMEND,train,WILL_AMEND_6
+"Dear Sir, This issue is already resolved. The revised invoice TI/90925 is now visible on the portal. Thank you.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_2
+"Hi, Can we schedule a call to discuss the differences for September?",MEETING_REQUEST,train,MEETING_REQUEST_0
+"Hi, We have not heard back. Is the mismatch for GST24771 closed? Thanks and regards.",STATUS_REQUEST,train,STATUS_REQUEST_6
+"Respected Sir, Please arrange a call with your GST team to discuss BL-83424. Thanks and regards.",MEETING_REQUEST,train,MEETING_REQUEST_2
+"Hello, Please find attached the invoice copy for BL53055 as requested.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_0
+"dear team, the buyer name on bl-54557 is incorrect, it should have been your company. thank you.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_5
+"Hi, Our consultant will correct the tax amount for GST-10359 in the coming month. Thank you.",WILL_AMEND,train,WILL_AMEND_4
+"Dear Sir, Noted your mail regarding INV/49546, we will check. Best regards, Accounts Team.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_8
+"hi, the mismatch reflects the credit note for short supply against invoice bl76219. thanks and regards.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_8
+"Respected Sir, The amount of Rs 832,078 you have booked is wrong; our invoice INV-15131 says otherwise.",DISPUTES_DATA,test,DISPUTES_DATA_8
+"Hi, Attaching the relevant invoice INV85181 and our ledger extract for August. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_9
+"Respected Sir, Our company has a new point of contact for GST matters from June. Thanks and regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_5
+kindly let us know if anything is still pending from our side. thank you.,STATUS_REQUEST,train,STATUS_REQUEST_2
+"Hi, Noted. Amendment TI13735 will be done in the subsequent return period. Thank you.",WILL_AMEND,train,WILL_AMEND_5
+"dear madam, the person handling this has left; please mark our tax consultant in future mails.",CONTACT_CHANGE,train,CONTACT_CHANGE_6
+"hi, we passed a credit note in october for ti-3102, so net tax is lower than your books. regards.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_9
+"dear madam, adding our gst team in this mail, they will handle the reconciliation from now. thanks and regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_3
+"Respected Sir, Please allow us till September to amend the details of GST-29074 on the portal. Regards, Finance Dept.",WILL_AMEND,test,WILL_AMEND_8
+"Respected Sir, Adding our GST team in this mail, they will handle the reconciliation from now. Best regards, Accounts Team.",CONTACT_CHANGE,train,CONTACT_CHANGE_3
+"Hello, We filed the correction for INV/44544 on time, it should reflect in 2A now. Thanks and regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_4
+"Hello, Please share the current status of the reconciliation for March. Thanks and regards.",STATUS_REQUEST,train,STATUS_REQUEST_3
+"Hi, The tax amount in your mail does not match our ledger. Kindly recheck BL/15984. Best regards, Accounts Team.",DISPUTES_DATA,train,DISPUTES_DATA_3
+"Dear Sir, Could you update us on whether the July differences are cleared? Regards, Finance Dept.",STATUS_REQUEST,test,STATUS_REQUEST_8
+"The amount of Rs 721,969 you have booked is wrong; our invoice TI-91995 says otherwise. Thank you.",DISPUTES_DATA,test,DISPUTES_DATA_8
+"we wrongly mentioned buyer gstin 23uvncb1483z1zf on bl/17963. kindly ignore it. regards, finance dept.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_3
+"Dear Team, Amendment done for SI/13924 in the March return. Kindly verify at your end. Best regards, Accounts Team.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_3
+"Dear Sir, Is there any further action required us for invoice SI-48085? Regards, Finance Dept.",STATUS_REQUEST,train,STATUS_REQUEST_4
+"Hi, Please allow us till June to amend the details of BL55874 on the portal. Best regards, Accounts Team.",WILL_AMEND,test,WILL_AMEND_8
+"Dear Madam, According to our reconciliation, nothing is wrong with BL3316. Please review your entries. Regards, Finance Dept.",DISPUTES_DATA,test,DISPUTES_DATA_9
+"Hi, Kindly direct ll GST queries to our central accounts mailbox from now on. Regards.",CONTACT_CHANGE,test,CONTACT_CHANGE_8
+"Hi, This was missed by our account team by mistake. We shall rectify it while filing GSTR-1 for January. Regards, Finance Dept.",WILL_AMEND,train,WILL_AMEND_1
+"hello, this issue is already resolved. the revised invoice si/51132 is now visible on the portal. best regards, accounts team.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_2
+"Hello, Can you please confirm whether the issue for SI-21280 is resolved now Thank you.",STATUS_REQUEST,train,STATUS_REQUEST_0
+"We will upload the missing invoice TI/15168 in our upcoming return for January. Regards, Finance Dept.",WILL_AMEND,train,WILL_AMEND_3
+"Dear Team, Attaching the relevant invoice INV8148 and our ledger extract for July. Regards.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_9
+"Dear Madam, Invoice INV49196 was billed to your unit in another state, please check that GSTIN.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_4
+"Dear Sir, The gap of Rs is due to the credit note issued in November against INV/6346. Thanks and regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_2
+"Hello, This document is for a different branch of yours, registered under 32ZNMTY2774Q1ZH. Regards.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_7
+"Dear Sir, The tax difference of Rs 107,891 on SI29644 was fixed in our last filing. Regards, Finance Dept.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_5
+"Dear Sir, I have moved to another role. Please follow up with our finance team for SI62260. Thank you.",CONTACT_CHANGE,train,CONTACT_CHANGE_1
+"Dear Team, Received your mail, we will check revert. Thanks and regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_1
+"Dear Team, The on INV/58280 is on account of a discount credit note of Rs 435,592. Regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_5
+"Dear Team, Please note TI-78678 was issued to another party, not to your organisation. Best regards, Accounts Team.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_8
+"Respected Sir, Please note our accounts contact has changed. Kindly write to the new team going forward. Best regards, Accounts Team.",CONTACT_CHANGE,train,CONTACT_CHANGE_0
+"Dear Sir, We already updated the taxable value for SI/67949 on the GST portal. Regards, Finance Dept.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_7
+"Hi, We propose a meeting within 3 days to settle the open differences. Best regards, Accounts Team.",MEETING_REQUEST,test,MEETING_REQUEST_8
+"Hi, We billed GST/59611 under GSTIN 28DFQLX2860M1ZY in error and are correcting the party details. Regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_6
+"hi, the mismatch was sorted out in april; nothing is pending from our side for si-13712. thanks and regards.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_9
+"Dear Team, Please let us know when your team is available to connect on GST/61851. Regards.",MEETING_REQUEST,test,MEETING_REQUEST_9
+"Hello, Attaching the relevant invoice GST/73100 and our ledger extract for September. Best regards, Accounts Team.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_9
+"Dear Madam, Kindly confirm whether you need anything more for GST/54939. Regards.",STATUS_REQUEST,test,STATUS_REQUEST_7
+"Dear Madam, Our company has a new point of contact for GST matters from October. Best regards, Accounts Team.",CONTACT_CHANGE,train,CONTACT_CHANGE_5
+"dear team, our company has a new point of contact for gst matters from january. best regards, accounts team.",CONTACT_CHANGE,train,CONTACT_CHANGE_5
+"Hi, Attached are the tax invoice and e-way bill for SI-72733. Kindly check. Bet regards, Accounts Team.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_1
+"We ave noted the difference in invoice GST24416 and will amend it in the December return. Best regards, Accounts Team.",WILL_AMEND,train,WILL_AMEND_0
+"According to our reconciliation, nothing is wrong with GST-62066. Please reviw your entries. Thank you.",DISPUTES_DATA,test,DISPUTES_DATA_9
+"dear sir, as discussed, we are sharing the signed copy of invoice ti-52497 with this mail. thank you.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_2
+"Respected Sir, Part quantity of INV-9126 was returned and a credit note was issued for the same. Thank you.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_6
+"Please recheck, INV-92173 was rectified in the September return and the status shows filed. Thanks and regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_6
+"dear sir, the mismatch was sorted out in june; nothing is pending from our side for si56004. thank you.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_9
+"Dear Madam, I have moved to another role. Please follow up with our finance team for TI/80576. Thank you.",CONTACT_CHANGE,train,CONTACT_CHANGE_1
+"Hi, Please share the current status of the reconciliation for August. Best regards, Accounts Team.",STATUS_REQUEST,train,STATUS_REQUEST_3
+We have the GSTR-1 filing screenshot showing BL90727. Thanks and regards.,DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_5
+We are aware of the gap and plan to report SI/98426 in our November filing without fail. Thank you.,WILL_AMEND,test,WILL_AMEND_9
+"Hi, Kindly update our email ID in your records; the old mailbox is no longer monitored.",CONTACT_CHANGE,train,CONTACT_CHANGE_2
+"Hello, I am no longer handling this vendor account; my colleague will reply on TI26506.",CONTACT_CHANGE,test,CONTACT_CHANGE_9
+"hello, request a short video call this week to close the pending mismatches. regards, finance dept.",MEETING_REQUEST,train,MEETING_REQUEST_5
+Part quantity of TI/8134 was returned and a credit note was issued for the same.,CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_6
+"Respected Sir, Here is the copy of SI82785 you asked for, attached in PDF format.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_8
+"Dear Sir, Invoice SI/12074 was billed to your unit in another state, please check that GSTIN. Regards, Finance Dept.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_4
+"Hi, The tax amount in your mail does not match our ledger. Kindly recheck INV-96706. Regards, Finance Dept.",DISPUTES_DATA,train,DISPUTES_DATA_3
+"dear team, is there any further action required from us for invoice ti/85275? thanks and regards.",STATUS_REQUEST,train,STATUS_REQUEST_4
+"Dear Madam, The tax amount in your mail does not match our ledger. Kindly recheck BL/26646. Best regards, Accounts Team.",DISPUTES_DATA,train,DISPUTES_DATA_3
+"Dear Team, The mismatch was sorted out in May; nothing is pending from our side for GST/32135. Regards, Finance Dept.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_9
+"Hello, Request you to confirm if our earlier correction for BL3867 is accepted. Regards, Finance Dept.",STATUS_REQUEST,train,STATUS_REQUEST_5
+"Dear Madam, Amendment done for GST74860 in the February return. Kindly verify at your end. Regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_3
+"Dear Team, Let us discuss over a call, the mail thread for BL-3026 getting long. Regards, Finance Dept.",MEETING_REQUEST,test,MEETING_REQUEST_7
+"Thank you, we have forwarded this to the concerned person. Regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_6
+"Dear Madam, Acknowledged. We will respond after internal review. Regards, Finance Dept.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_9
+"Dear Sir, Please note BL37338 was issued to another party, not to your organisation. Thank you.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_8
+"Hello, A credit note was raised for rate difference on INV/11498, which explains the mismatch. Best regards, Accounts Team.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_1
+"Hello, The person handling this has left; please mark our tax consultant in future mails. Thank you.",CONTACT_CHANGE,train,CONTACT_CHANGE_6
+"Hello, Received with thanks. Will get back shortly. Regards, Finance Dept.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_7
+"dear madam, kindly see the attachment, it contains the invoice and credit note for si17569. thank you.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_7
+"Hi, Our company has a new point of contact for GST matters from April. Regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_5
+"We have reporte TI/99665 correctly in GSTR-1; the error is in your booking. Regards, Finance Dept.",DISPUTES_DATA,train,DISPUTES_DATA_4
+"Dear Team, Noted your mail regarding BL/8849, wewill check. Best regards, Accounts Team.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_8
+"Hello, The tax difference of Rs 710,532 on INV/85930 was fixed in our last filing. Regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_5
+"hello, we are awaiting your confirmation on the status of gst/63027. please update. best regards, accounts team.",STATUS_REQUEST,train,STATUS_REQUEST_1
+"Dear Sir, Received with thanks. Will get back shortly. Best regards, Accounts Team.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_7
+"Respected Sir, Please remove me from this thread and send future reminders to our accounts head. Best regards, Accounts Team.",CONTACT_CHANGE,train,CONTACT_CHANGE_4
+"Hello, Can you please confirm whether the issue for INV/31984 is resolved now? Regards.",STATUS_REQUEST,train,STATUS_REQUEST_0
+"Hello, The difference in GST73182 is because we issued a credit note of Rs 676,091 against it. Thanks and regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_0
+"hi, we accept the mismatch and will fix it in the next gstr-1, which is due in july. thank you.",WILL_AMEND,train,WILL_AMEND_6
+"Dear Team, We acknowledge receipt of your reminder for April. Regards, Finance Dept.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_4
+"Dear Madam, We accept the mismatch and will fix it in the next GSTR-1, which is due in September.",WILL_AMEND,train,WILL_AMEND_6
+"Dear Team, This document is for a different branch f yours, registered under 16AKJSG7701B1ZT. Regards, Finance Dept.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_7
+"dear madam, okay, noted. our team will review. regards, finance dept.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_5
+Dear We have noted the difference in invoice BL/70352 and will amend it in the August return. Thank you.,WILL_AMEND,train,WILL_AMEND_0
+"respected sir, please remove me from this thread and send future reminders to our accounts head. thank you.",CONTACT_CHANGE,train,CONTACT_CHANGE_4
+"Hello, Please note TI/98879 was issued to another party, not to your organisation.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_8
+"Dear Sir, We will respond after internal review. Thank you.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_9
+"We have not heard back. Is the mismatch for TI/44483 closed? Best egards, Accounts Team.",STATUS_REQUEST,train,STATUS_REQUEST_6
+"Hello, A credit note was raised for rate difference on BL43830, which explains the mismatch. Regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_1
+"Dear Madam, Here is the copy of INV-69576 you asked for, attached in PDF format. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_8
+"Hello, Our consultant will correct the tax amount for SI64532 in the coming month.",WILL_AMEND,train,WILL_AMEND_4
+"Hi, Kindly let us know if anything is still pending from our side. Regards, Finance Dept.",STATUS_REQUEST,train,STATUS_REQUEST_2
+"Dear Madam, The ship-to and bill-to GSTIN on invoice TI-77706 were swapped by mistake. Regards, Finance Dept.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_9
+Kindly update our email ID in your records; the old mailbox is no longer monitored. Regards.,CONTACT_CHANGE,train,CONTACT_CHANGE_2
+"respected sir, could you update us on whether the january differences are cleared? thank you.",STATUS_REQUEST,test,STATUS_REQUEST_8
+"Hi, Please recheck, GST-51164 was rectified in the June return and the status shows Regards, Finance Dept.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_6
+"Hi, The invoice GST45089 has already been amended in our GSTR-1 for December. Please check 2B again.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_0
+"dear madam, thank you for the information. we have noted it.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_0
+"dear sir, part quantity of si17176 was returned and a credit note was issued for the same. thank you.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_6
+"Hello, This invoice was not for your company, it was raised to another customer. Thank you.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_2
+"Hi, Our company has a new point of contact for GST matters from July. Thanks and regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_5
+"Dear Team, Thanks for the update, will look into it. Thank you.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_3
+We are aware of the gap and plan to report GST46537 in our March filing without fail. Regards.,WILL_AMEND,test,WILL_AMEND_9
+"Dear Madam, Sharing the invoice PDF for TI57651; please confirmreceipt. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_6
+"Hi, Kindly direct all GST queries to our central accounts mailbox from now on.",CONTACT_CHANGE,test,CONTACT_CHANGE_8
+"respected sir, can someone from your side join a call on the april reconciliation? thanks and regards.",MEETING_REQUEST,train,MEETING_REQUEST_6
+"As discussed, we are sharing the signed copy of invoice INV-35993 with this mail. Best regards, Accounts Team.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_2
+The invoice GST-99951 was not reported earlier; it will be included when we file for December. Regards.,WILL_AMEND,test,WILL_AMEND_7
+"Hello, Adding our GST team in this mail, they will handle the reconciliation from now.",CONTACT_CHANGE,train,CONTACT_CHANGE_3
+"Dear Madam, We wrongly mentioned buyer GSTIN 05UVYBM2159P1ZV on GST9169. Kindly ignore it. Thank you.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_3
+"hello, thank you for the information. we have noted it. regards, finance dept.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_0
+I hav moved to another role. Please follow up with our finance team for TI19958.,CONTACT_CHANGE,train,CONTACT_CHANGE_1
+"Hi, We acknowledge receipt of your reminder for November. Thank you.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_4
+"Dear Madam, The amount in your mail does not match our ledger. Kindly recheck BL-72820. Regards, Finance Dept.",DISPUTES_DATA,train,DISPUTES_DATA_3
+"Respected Sir, Please remove me from this thread and send future reminders to our accounts head. Thanks and regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_4
+"hi, we have not heard back. is the mismatch for inv-20482 closed? thanks and regards.",STATUS_REQUEST,train,STATUS_REQUEST_6
+"Hi, Please remove me from this thread and send future reminders to our accounts head.",CONTACT_CHANGE,train,CONTACT_CHANGE_4
+"Dear Sir, The tax difference of Rs 303,365 on TI22871 was fixed in our last filing. Thank you.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_5
+"kindly see the attachment, it contains the invoice and credit note for si/22930.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_7
+"Dear Sir, Cn we schedule a call to discuss the differences for May?",MEETING_REQUEST,train,MEETING_REQUEST_0
+"Hello, We billed GST88649 under GSTIN 06ZHZCL3567S1ZL in error and are correcting the party details. Regards, Finance Dept.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_6
+"Respected Sir, We have not heard back. Is the mismatch for GST-83232 closed? Best regards, Accounts Team.",STATUS_REQUEST,train,STATUS_REQUEST_6
+"Dear Team, The reduction on TI/54382 is on account of a discount credit note of Rs 177,909. Regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_5
+"Kindl let us know if anything is still pending from our side. Best regards, Accounts Team.",STATUS_REQUEST,train,STATUS_REQUEST_2
+"hi, received with thanks. will get back shortly. thank you.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_7
+"Dear Sir, We had issued a debit note for TI32690; that is why the values differ. Regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_3
+"dear team, can we schedule a call to discuss the differences for december? regards, finance dept.",MEETING_REQUEST,train,MEETING_REQUEST_0
+"Dear Team, Kindly let us know if anything is still pending from our side. Thank you.",STATUS_REQUEST,train,STATUS_REQUEST_2
+is there any further action required from us for invoice gst25400? thank you.,STATUS_REQUEST,train,STATUS_REQUEST_4
+"Dear Team, Sharing the invoice PDF for SI1868; please confirm Thank you.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_6
+We have attached the GSTR-1 filing screenshot showing INV-27522. Thank you.,DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_5
+"Dear Madam, Please let us know when your team is available to connect on TI-59051. Best regards, Accounts Team.",MEETING_REQUEST,test,MEETING_REQUEST_9
+"Dear Madam, Sharing the invoice PDF for GST-80477; please confirm receipt. Thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_6
+"Your records seem incorrect. Invoice SI16456 was billed at Rs not the amount you mention. Regards, Finance Dept.",DISPUTES_DATA,train,DISPUTES_DATA_1
+"Hello, This issue is already resolved. The revised invoice BL/8292 is now visible on the portal. Thanks and regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_2
+"Hello, Is there any further action required from us for invoice TI/3314?",STATUS_REQUEST,train,STATUS_REQUEST_4
+"PFA the scanned invoice INV/21489 along with the delivery challan. Best regards, Accounts Team.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_3
+"Dear Sir, Request a short video call this week to close the pending mismatches. Thanks and regards.",MEETING_REQUEST,train,MEETING_REQUEST_5
+"Dear Sir, Can we schedule a call to discuss the differences for December? Thanks and regards.",MEETING_REQUEST,train,MEETING_REQUEST_0
+"Hi, We have corrected the GSTIN on SI-59554 and filed the amendment last week.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_1
+"Hello, Attaching the relevant invoice SI/99676 and our ledger extract for January. Best regards, Accounts Team.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_9
+"Dear Sir, Please arrange a call with your GST team to discuss TI44703. Thank you.",MEETING_REQUEST,train,MEETING_REQUEST_2
+"Dear Sir, Kindly let us know if anything is still pending from our side.",STATUS_REQUEST,train,STATUS_REQUEST_2
+"Dear Team, Let us discuss over a call, the mail thread for BL/60863 is getting long. Best regards, Accounts Team.",MEETING_REQUEST,test,MEETING_REQUEST_7
+"Hello, The mismatch reflects the credit note for short supply against invoice GST-93489. Regards, Finance Dept.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_8
+We would like to meet your accounts team to reconcile all open invoices. Thank you.,MEETING_REQUEST,train,MEETING_REQUEST_3
+"Invoice GST6471 was billed to your unit in another state, please check that GSTIN.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_4
+"Dear Sir, Please update the vendor contact details, the new emailis copied here. Best regards, Accounts Team.",CONTACT_CHANGE,test,CONTACT_CHANGE_7
+"Dear Sir, Sharing the invoice PDF for GST/74446; please confirm receipt. Thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_6
+"Dear Sir, We have corrected the GSTIN on GST/86979 and filed the amendment last week.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_1
+"Hi, Kindly see the attachment, it contains the invoice and credit note for INV-22233. Best regards, Accounts Team.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_7
+"credit note against gst45657 was reported separately in gstr-1, hence the lower value. regards, finance dept.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_4
+"dear madam, kindly confirm whether you need anything more for inv-79264. thank you.",STATUS_REQUEST,test,STATUS_REQUEST_7
+"Respected Sir, We had issued a debit note for SI/40800; that is why the values differ.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_3
+"Dear Sir, Request a short video call this week to close the pending mismatches. Thanks and regards.",MEETING_REQUEST,train,MEETING_REQUEST_5
+"Respected Sir, Noted with thanks. Regards, Finance Dept.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_2
+"Please find attached the invoice copy for SI/49717 as requested. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_0
+"Dear Madam, Request a short video call this week to close the pending mismatches. Best regards, Accounts Team.",MEETING_REQUEST,train,MEETING_REQUEST_5
+"Dear Sir, Kindly see the attachment, it contains the invoice and credit note for INV-14405. Thanks and regards.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_7
+"Respected Sir, Can someone from your side join a call on the July reconciliation? Thank you.",MEETING_REQUEST,train,MEETING_REQUEST_6
+"Hi, Sharing the invoice PDF for INV34776; please confirm receipt. Thank you.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_6
+"Hello, Correction for invoice TI-81492 has been completed and is reflecting in GSTR-2B. Regards.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_8
+"respected sir, please update the vendor contact details, the new email is copied here. thanks and regards.",CONTACT_CHANGE,test,CONTACT_CHANGE_7
+"Dear Team, This was missed by our accounts team by mistake. We shall rectify it while filing GSTR-1 for March.",WILL_AMEND,train,WILL_AMEND_1
+"Hi, A credit note was raised for rate difference on GST-74342, which explains the mismatch. Best regards, Accounts Team.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_1
+"Dear Madam, Please adjust the credit note raised against INV-89795; it covers the full difference. Best regards, Accounts Team.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_7
+"Respected Sir, Noted. Amendment for BL/70579 will be done in the subsequent return period. Regards.",WILL_AMEND,train,WILL_AMEND_5
+"Hello, Please adjust the credit note raised against SI/36171; it covers the difference. Best regards, Accounts Team.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_7
+"Dear Sir, The buyer name on BL94433 is incorrect, it should have been your company. Best regards, Accounts Team.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_5
+"Hi, Please share the current status of the reconciliation for October. Regards, Finance Dept.",STATUS_REQUEST,train,STATUS_REQUEST_3
+"Dear Sir, Kindly see the attachment, it contains the invoice and credit note for SI/61776. Regards.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_7
+"Dear Sir, Please remove me from this thread and send future reminders to our accounts head. Thanks and regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_4
+"respected sir, please note our accounts contact has changed. kindly write to the new team going forward. thanks and regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_0
+"Respected Sir, Let us discuss over a call, the mail thread for INV86830 is getting Regards, Finance Dept.",MEETING_REQUEST,test,MEETING_REQUEST_7
+"Can someone from your side join a call on the September reconciliation? Regards, Finance Dept.",MEETING_REQUEST,train,MEETING_REQUEST_6
+"Hi, Kindly direct all GST queries to our central accounts mailbox from now on. Best regards, Accounts Team.",CONTACT_CHANGE,test,CONTACT_CHANGE_8
+received with thanks. will get back shortly. thanks and regards.,ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_7
+"Hi, The buyer name on SI73999 is incorrect, it should have been your company. Thanks and regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_5
+"We accept the mismatch and will fix it in the next GSTR-1, which is due in December. Thank you.",WILL_AMEND,train,WILL_AMEND_6
+"Hello, The person handling this has left; please mark our tax consultant in future mails. Best Accounts Team.",CONTACT_CHANGE,train,CONTACT_CHANGE_6
+"We filed the correction for BL5296 on time, it should reflect in your 2A now. Best regards, Accounts Team.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_4
+"please verify your data, we never issued invoice bl20278 in january. thanks and regards.",DISPUTES_DATA,test,DISPUTES_DATA_7
+"respected sir, the invoice bl/17406 has already been amended in our gstr-1 for february. please check 2b again. best regards, accounts team.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_0
+"Dear Team, Your records seem incorrect. Invoice INV96646 was billed at Rs 555,140, not the amount you mention. Best regards, Accounts Team.",DISPUTES_DATA,train,DISPUTES_DATA_1
+"Hi, Please find attached the invoice copy for TI/84165 as requested. Thank you.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_0
+"Dear Sir, We billed INV91169 under GSTIN 28DYSLG1583W1ZW in error and are correcting the party details. Regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_6
+"Hello, Kindly share your phone numbe so we can discuss INV-53858 directly. Thank you.",MEETING_REQUEST,train,MEETING_REQUEST_4
+"Dear Madam, Please note our accounts contact has changed. Kindly write to new team going forward. Thanks and regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_0
+"dear team, the mismatch reflects the credit note for short supply against invoice ti/57649. regards.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_8
+"I am no longer handling this vendor account; my colleague will reply on GST94719. Best regards, Accounts Team.",CONTACT_CHANGE,test,CONTACT_CHANGE_9
+"Dear Madam, Your records seem incorrect. Invoice TI/12820 was billed at Rs 340,317, not the amount you mention. Regards, Finance Dept.",DISPUTES_DATA,train,DISPUTES_DATA_1
+"Can we schedule a call to discuss the differences for May? Best regards, Accounts Team.",MEETING_REQUEST,train,MEETING_REQUEST_0
+"Hello, The invoice BL45993 belongs to your other plant; it billed to GSTIN 28QUMKD1136R1ZX. Regards, Finance Dept.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_1
+"Dear Sir, The invoice BL-2007 was not reported earlier; it will be included when we file for July. Regards.",WILL_AMEND,test,WILL_AMEND_7
+"Dear Madam, The person handling this has left; please mark our tax consultant in mails. Thank you.",CONTACT_CHANGE,train,CONTACT_CHANGE_6
+"Dear Madam, According to our reconciliation, nothing is wrong with BL-91176. Please review your entries. Best regards, Accounts Team.",DISPUTES_DATA,test,DISPUTES_DATA_9
+"hi, credit note against bl83279 was reported separately in gstr-1, hence the lower value. regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_4
+"Respected Sir, Can we schedule a call to discuss the differences for July? Thank you.",MEETING_REQUEST,train,MEETING_REQUEST_0
+"Dear Madam, We have noted the difference in TI-50823 and will amend it in the August return. Regards, Finance Dept.",WILL_AMEND,train,WILL_AMEND_0
+"Hi, Received your mail, we will check and revert. Regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_1
+"Respected Sir, We are aware of the gap and plan to report SI-81199 in our August filing without fail. Regards, Finance Dept.",WILL_AMEND,test,WILL_AMEND_9
+"We filed the correction for INV-33536 on time, it should reflect i your 2A now.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_4
+"dear team, we filed the correction for si/12101 on time, it should reflect in your 2a now. thank you.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_4
+"Hello, I have moved to another role. Please follow up with our finance team for SI/38523. Best regards, Accounts Team.",CONTACT_CHANGE,train,CONTACT_CHANGE_1
+"Hello, We passed a credit note in March for SI/92791, so net tax is lower than your books. Thank you.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_9
+"Hello, Our company has a new point of contact for GST matters from May. Best regards, Accounts Team.",CONTACT_CHANGE,train,CONTACT_CHANGE_5
+"Respected Sir, Invoice SI/85029 was raised to a different GSTIN by mistake. We will issue a corrected one. Regards, Finance Dept.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_0
+"hello, we filed the correction for ti/37170 on time, it should reflect in your 2a now.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_4
+"hello, it will be easier to resolve this over a meeting. please share a convenient time. regards.",MEETING_REQUEST,train,MEETING_REQUEST_1
+"dear team, thank you, we have forwarded this to the concerned person. thank you.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_6
+"Dear Sir, It will e easier to resolve this over a meeting. Please share a convenient time. Best regards, Accounts Team.",MEETING_REQUEST,train,MEETING_REQUEST_1
+"Respected Sir, We propose a within 3 days to settle the open differences. Thanks and regards.",MEETING_REQUEST,test,MEETING_REQUEST_8
+"Hello, We lready updated the taxable value for INV-33053 on the GST portal. Regards, Finance Dept.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_7
+"Dear Team, This mismatch is due to wrong entry at your end, our filing for SI/16833 is accurate. Regards.",DISPUTES_DATA,train,DISPUTES_DATA_5
+"Dear Sir, Kindly share your phone number so we can discuss GST-8594 directly. Thank you.",MEETING_REQUEST,train,MEETING_REQUEST_4
+"Hello, Can someone from your side join call on the December reconciliation?",MEETING_REQUEST,train,MEETING_REQUEST_6
+"Dear Madam, The ship-to and bill-to GSTIN on invoice INV28619 were swapped by mistake. Thanks and regards.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_9
+"Dear Team, Correction for invoice INV-76220 has been completed and is reflecting in GSTR-2B. Thanks and regards.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_8
+"Hello, Noted your mail regarding GST-79378, we will check.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_8
+"Hello, Please remove me from this thread and send future reminders to our accounts head. Thank you.",CONTACT_CHANGE,train,CONTACT_CHANGE_4
+"Respected Sir, We are awaiting your confirmation on the status of INV44620. Please update. Thank you.",STATUS_REQUEST,train,STATUS_REQUEST_1
+"Respected Sir, The person handling this has left; please mark our tax consultant in future mails. Thanks and regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_6
+"Hello, Credit note against BL26238 was reported separately in GSTR-1, hence the lower value. Regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_4
+"Dear Team, Amendment done for INV99871 in the November return. Kindly verify at your end. Thanks and regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_3
+"Dear Team, It will be easier to resolve this over a meeting. Please share a convenient time. Regards, Finance Dept.",MEETING_REQUEST,train,MEETING_REQUEST_1
+"Hi, The person handling this has left; please mark our tax consutant in future mails. Thank you.",CONTACT_CHANGE,train,CONTACT_CHANGE_6
+"Dear Team, Here is the copy of BL/82290 you asked for, attached in PDF format. Thank you.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_8
+"Hi, Your records seem incorrect. Invoice BL7461 was billed at Rs 305,823, not the amount you mention. Best regards, Accounts Team.",DISPUTES_DATA,train,DISPUTES_DATA_1
+"Hello, Please share the current status of the reconciliation for December. Regards, Finance Dept.",STATUS_REQUEST,train,STATUS_REQUEST_3
+"Hello, Please find attached the invoice copy for GST/8086 as requested. Thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_0
+"Respected Sir, Part quantity of TI-22558 was returned and a credit note was issued for the Thanks and regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_6
+"dear team, this document is for a different branch of yours, registered under 22evtaz1345n1zc. best regards, accounts team.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_7
+"Hello, Noted your regarding GST-19639, we will check. Best regards, Accounts Team.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_8
+"Respected Sir, Your records seem incorrect. Invoice GST/96703 was billed at Rs 303,308, not the amount you mention. Thank you.",DISPUTES_DATA,train,DISPUTES_DATA_1
+"Hello, Received your mail, we will check and revert. Thanks and regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_1
+"Dear Sir, Can someone from your side join a call on the August reconciliation? Thanks and regards.",MEETING_REQUEST,train,MEETING_REQUEST_6
+"Dear Team, The difference in TI98371 is because we issued a credit note of Rs 753,070 against it.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_0
+Correction for invoice TI-45663 has been completed and is reflecting in GSTR-2B. Thanks and regards.,ALREADY_CORRECTED,test,ALREADY_CORRECTED_8
+"Dear Sir, Kindly see the attachment, it contains the invoice and credit note for BL-78441.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_7
+"Dear Team, This mismatch is due to wrong entry at your end, our filing for INV30602 is accurate. Best regards, Accounts Team.",DISPUTES_DATA,train,DISPUTES_DATA_5
+"Dear Madam, Here is the copy of GST/2653 you asked for, attached in PDF format. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_8
+"Hello, We are awaiting your confirmation on the status of SI/89185. Please update. Best regards, Accounts Team.",STATUS_REQUEST,train,STATUS_REQUEST_1
+"Hi, Corrction for invoice GST29707 has been completed and is reflecting in GSTR-2B. Regards.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_8
+Correction for invoice TI/72057 has been completed and is reflecting in GSTR-2B. Thanks and regards.,ALREADY_CORRECTED,test,ALREADY_CORRECTED_8
+"dear madam, please arrange a call with your gst team to discuss bl-87153. thanks and regards.",MEETING_REQUEST,train,MEETING_REQUEST_2
+"Dear Madam, Please note our accounts contact has changed. Kindly write to the new team going forward. Regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_0
+"We would like to meet your accounts team to reconcile all open invoices. Regards, Finance Dept.",MEETING_REQUEST,train,MEETING_REQUEST_3
+Received with thanks. Will get back shortly. Regards.,ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_7
+"Dear Sir, Is there any further action required from us for invoice GST-62695? Regards.",STATUS_REQUEST,train,STATUS_REQUEST_4
+"Kindly give us some time, the correction for TI33706 will reflect in next month's filing. Regards.",WILL_AMEND,train,WILL_AMEND_2
+"Hello, We passed a credit note in July for GST-52011, so net tax is lower than your books. Thanks and regards.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_9
+"okay, noted. our team will review. best regards, accounts team.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_5
+"Dear Sir, I have moved to another role. Please follow up with our finance team for GST51992. Best regards, Accounts Team.",CONTACT_CHANGE,train,CONTACT_CHANGE_1
+"Hi, Please let us know when your team is available to connect on GST48669. Regards, Finance Dept.",MEETING_REQUEST,test,MEETING_REQUEST_9
+"Dear Sir, Please advise if the matter regarding INV-65781 has been closed at your end. Regards, Finance Dept.",STATUS_REQUEST,test,STATUS_REQUEST_9
+"Hello, I am no longer handling this vendor account; my colleague will reply on BL/46239. Thanks and regards.",CONTACT_CHANGE,test,CONTACT_CHANGE_9
+"Hi, Our company has a new point of contact for GST matters from August. Regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_5
+"Dear Sir, The amount of Rs 859,898 you have booked is wrong; our invoice BL9957 says otherwise. Best regards, Accounts Team.",DISPUTES_DATA,test,DISPUTES_DATA_8
+"Dear Team, Can we schedule a call to discuss the differences for August? Best regards, Accounts Team.",MEETING_REQUEST,train,MEETING_REQUEST_0
+"respected sir, this was missed by our accounts team by mistake. we shall rectify it while filing gstr-1 for september. thanks and regards.",WILL_AMEND,train,WILL_AMEND_1
+"dear sir, we do not agree with the difference shown. as per our books, gst-96299 is correctly reported. regards.",DISPUTES_DATA,train,DISPUTES_DATA_0
+"Hello, We wrongly mentioned buyer GSTIN 37NAUKB8282B1ZM on TI-38148. Kindly ignore it. Regards, Finance Dept.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_3
+"Is there any further action required from us for invoice INV/15425? Regards, Finance Dept.",STATUS_REQUEST,train,STATUS_REQUEST_4
+"Dear Team, Please recheck, TI/60836 was rectified in the April return and the status shows filed.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_6
+"Dear Madam, Thank you, we have forwarded this to the concerned person.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_6
+"Dar Sir, Thank you, we have forwarded this to the concerned person. Regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_6
+"Respected Sir, We propose a meeting within days to settle the open differences. Thanks and regards.",MEETING_REQUEST,test,MEETING_REQUEST_8
+"respected sir, a credit note was raised for rate difference on gst11778, which explains the mismatch. regards, finance dept.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_1
+"Dear Sir, We acknowlege receipt of your reminder for March. Thank you.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_4
+"Hi, Please share the current status of the reconciliation for February. Regards.",STATUS_REQUEST,train,STATUS_REQUEST_3
+"Dear Team, Noted your mail regarding INV77758, we will check. Regards, Finance Dept.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_8
+"Dear Team, We wrongly mentioned buyer GSTIN 33GMYSN9405C1ZF on INV-47890. Kindly ignore it. Regards, Finance Dept.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_3
+"Hello, This mismatch is due to entry at your end, our filing for INV86426 is accurate. Thank you.",DISPUTES_DATA,train,DISPUTES_DATA_5
+"Hi, Kindly see the attachment, it contains the invoice and credit note for SI/79250. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_7
+"Dear Sir, We already updated the taxable value for INV-71981 on the GST portal. Thank you.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_7
+There is no such invoice TI/60232 raised by us. Please check your purchase register. Thank you.,DISPUTES_DATA,train,DISPUTES_DATA_2
+"Hi, I have moved to another role. Please follow up with our inance team for TI/66740. Regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_1
+Could you update us on whether the July differences are cleared? Thanks and regards.,STATUS_REQUEST,test,STATUS_REQUEST_8
+"dear sir, please allow us till april to amend the details of si/81654 on the portal. thanks and regards.",WILL_AMEND,test,WILL_AMEND_8
+"Respected Sir, This mismatch is due to wrong entry at your end, our filing for SI-83941 is accurate. Best regards, Accounts Team.",DISPUTES_DATA,train,DISPUTES_DATA_5
+"Hello, Please update the vendor contact details, new email is copied here.",CONTACT_CHANGE,test,CONTACT_CHANGE_7
+"dear madam, thank you, we have forwarded this to the concerned person. best regards, accounts team.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_6
+"Dear Team, Request a short video call this week to close the pending mismatches.",MEETING_REQUEST,train,MEETING_REQUEST_5
+"Dear Team, Kindly confirm whether you need anything more for TI-90320. Thanks and regards.",STATUS_REQUEST,test,STATUS_REQUEST_7
+"Dear Madam, The buyer name on BL-48486 is incorrect, it should have been your company. Thanks and regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_5
+"Dear Team, There is no such invoice INV-51279 raised by us. Please check your purchase register. Regards.",DISPUTES_DATA,train,DISPUTES_DATA_2
+"Dear Sir, The person handling this has left; please mark our tax consultant in future mails. Thank you.",CONTACT_CHANGE,train,CONTACT_CHANGE_6
+"Dear Madam, Thank you, we have forwarded this to the concerned person. Best regards, Accounts Team.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_6
+"Hi, We will upload the missing invoice TI/52049 in our upcoming return for January. Regards, Finance Dept.",WILL_AMEND,train,WILL_AMEND_3
+"Respected Sir, We billed GST-13579 under GSTIN 33FAVBT9813G1ZA in error and are correcting the party details.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_6
+"Respected Sir, Kindly share your phone number so we can discuss INV/5555 directly. Best regards, Accounts Team.",MEETING_REQUEST,train,MEETING_REQUEST_4
+"dear madam, according to our reconciliation, nothing is wrong with ti8305. please review your entries.",DISPUTES_DATA,test,DISPUTES_DATA_9
+"Hi, Request you to confirm if our earlier correction for TI/62873 is accepted.",STATUS_REQUEST,train,STATUS_REQUEST_5
+"Respected Sir, We acknowledge receipt of your reminder for September. Regards, Finance Dept.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_4
+"Dear Team, The reduction on SI-64461 is on account of a discount credit note of Rs 427,788. Best regards, Accounts Team.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_5
+"Hello, Please find attached the copy for INV/18342 as requested. Thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_0
+"Dear Team, Attaching the relevant invoice INV37170 and our ledger extract for December. Thanks and regards.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_9
+"Hello, Kindly give us some time, the correction for GST/92384 will reflect in next month's filing. Best regards, Accounts Team.",WILL_AMEND,train,WILL_AMEND_2
+"Dear Madam, Let us discuss over a call, the mail thread for TI-5952 is getting long. Thanks and regards.",MEETING_REQUEST,test,MEETING_REQUEST_7
+"hello, here is the copy of inv-96049 you asked for, attached in pdf format. regards, finance dept.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_8
+"dear team, the invoice gst89971 belongs to your other plant; it was billed to gstin 34fjxml7406u1zp. regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_1
+We wrongly mentioned buyer GSTIN 16DFZNP2054B1ZV on SI/31347. Kindly ignore it.,WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_3
+"Dear Madam, Sharing the invoice PDF for INV/16239; please confirm receipt.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_6
+"Dear Team, Kindly confirm whether you need anything more for GST-41449. Thank you.",STATUS_REQUEST,test,STATUS_REQUEST_7
+"Dear Team, Invoice INV33757 was billed to your unit in another state, please check that GSTIN. Regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_4
+"Respected Sir, I am no longer handling this vendor account; my colleague will reply on BL23271. Thank you.",CONTACT_CHANGE,test,CONTACT_CHANGE_9
+"Hi, Here is the copy of SI/90318 you asked for, attached in PDF format. Thanks regards.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_8
+"Hi, We would like to meet your accounts team to reconcile all open invoices. Regards.",MEETING_REQUEST,train,MEETING_REQUEST_3
+"Dear Sir, Noted with thanks.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_2
+"Dear Sir, We have attached the GSTR-1 filing screenshot showing BL-77368. Thank you.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_5
+"Dear Team, The difference in GST-92220 is because we issued a credit note of Rs 617,051 against it. Thank you.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_0
+"Hello, We passed a credit note in May for TI75529, so net tax is lower than your books. Thank you.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_9
+"Let us discuss over a call, the mail thread for BL/31653 is getting Thanks and regards.",MEETING_REQUEST,test,MEETING_REQUEST_7
+"Respected Sir, Attaching the relevant invoice TI-34586 and our ledger extract for August. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_9
+"kindly direct all gst queries to our central accounts mailbox from now on. best regards, accounts team.",CONTACT_CHANGE,test,CONTACT_CHANGE_8
+"Hi, We dispute the figures shared. Our ledger shows Rs 586,434 against GST/23972. Best regards, Accounts Team.",DISPUTES_DATA,train,DISPUTES_DATA_6
+"Dear Sir, Please recheck, TI-52949 was rectified in the February return and the status shows Best regards, Accounts Team.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_6
+"Dear Madam, The ship-to and bill-to GSTIN on invoice BL-80531 were swapped by mistake.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_9
+"Dear Team, Amendment done for BL55732 in the August return. Kindly verify at your end. Thank you.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_3
+"Hi, Correction for invoice BL/30260 has been completed and is reflecting in GSTR-2B. Best regards, Accounts Team.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_8
+"Dear Sir, Credit note against SI-40522 was reported separately in GSTR-1, hence the lower value.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_4
+"Dear Madam, Noted with thanks.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_2
+"Respected Sir, A credit note was raised for rate difference on TI/51917, which explains the mismatch. Regards, Finance Dept.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_1
+"Dear Madam, Please recheck, BL/56518 was rectified in the March return and the status shows filed. Regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_6
+"Hello, We would like to meet your accounts team to reconcile all open invoices. Thanks and regards.",MEETING_REQUEST,train,MEETING_REQUEST_3
+"Dear Sir, The ship-to and bill-to GSTIN on invoice SI78121 wre swapped by mistake. Thanks and regards.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_9
+"Hello, We have not heard back. Is the mismatch for GST-24838 closed? Thank you.",STATUS_REQUEST,train,STATUS_REQUEST_6
+"Sharing the invoice PDF for TI/97614; please confirm receipt. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_6
+"Dear Sir, This mismatch is due to wrong entry at your end, our filing for BL-98131 is accurate. Regards, Finance Dept.",DISPUTES_DATA,train,DISPUTES_DATA_5
+"Dear Team, Here is copy of SI79146 you asked for, attached in PDF format. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_8
+"Dear Madam, We passed a credit note in March for BL32757, so net tax is lower than your books. Regards, Finance Dept.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_9
+Correction for invoice GST83614 has been completed and is reflecting in GSTR-2B.,ALREADY_CORRECTED,test,ALREADY_CORRECTED_8
+"hi, we have reported inv/94768 correctly in gstr-1; the error is in your booking. regards, finance dept.",DISPUTES_DATA,train,DISPUTES_DATA_4
+"Dear Sir, Received with thanks. get back shortly.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_7
+"Dear Sir, Please recheck, SI/77278 was rectified in the April return and the status shows filed. Thank you.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_6
+"Respected Sir, Sharing the invoice PDF for TI/56567; please confirm receipt.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_6
+"Dear Sir, Please note our accounts contact has Kindly write to the new team going forward. Best regards, Accounts Team.",CONTACT_CHANGE,train,CONTACT_CHANGE_0
+"Respected Sir, The invoice SI74989 was not reported earlier; it will be included when we file for February. Thanks and regards.",WILL_AMEND,test,WILL_AMEND_7
+"Hello, The buyer name on BL62585 is incorrect, it should have been your company. Thank you.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_5
+"Respected Sir, Request a short video call this week to close the pending mismatches. Regards.",MEETING_REQUEST,train,MEETING_REQUEST_5
+"Hello, Please note our accounts contact has changed. Kindly write to the new team going forward. Regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_0
+"Hello, We dispute the figures shared. Our ledger shows Rs 370,344 against TI30548. Best regards, Accounts Team.",DISPUTES_DATA,train,DISPUTES_DATA_6
+"dear sir, our consultant will correct the tax amount for inv-38762 in the coming month. regards, finance dept.",WILL_AMEND,train,WILL_AMEND_4
+We would like to meet your accounts team to reconcile all open invoices. Thanks and regards.,MEETING_REQUEST,train,MEETING_REQUEST_3
+"Dear Madam, We already updated the taxable value for INV-94277 on the GST portal. Regards.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_7
+"Hello, We have corrected the GSTIN on BL-84616 and filed the amendment last week. Regards, Finance Dept.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_1
+"Dear Team, Correction for invoice BL-24865 has been completed and is reflecting in GSTR-2B. Thanks regards.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_8
+"Respected Sir, We will the missing invoice INV-27130 in our upcoming return for April. Thanks and regards.",WILL_AMEND,train,WILL_AMEND_3
+"Dear Sir, We have corrected the GSTIN on SI/86267 and filed the amendment last week. Thank you.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_1
+"Dear Sir, I have moved to another role. Please follow up with our finance team for INV/1660. Thank you.",CONTACT_CHANGE,train,CONTACT_CHANGE_1
+"dear madam, the invoice gst-7440 belongs to your other plant; it was billed to gstin 28gkgnf5520s1zv. thank you.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_1
+"Dear Sir, I have moved to another role. Please follow up with our finance team for T95871. Regards, Finance Dept.",CONTACT_CHANGE,train,CONTACT_CHANGE_1
+"Hello, We acknowledge receipt of your reminder for October. Thanks and regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_4
+"Respected Sir, We dispute the figures shared. Our ledger shows Rs 664,670 against GST61856. Thanks and regards.",DISPUTES_DATA,train,DISPUTES_DATA_6
+"Respected Sir, We have noted the difference in invoice TI79907 and will amend it in the April return.",WILL_AMEND,train,WILL_AMEND_0
+"Hello, Your records seem incorrect. Invoice SI60204 was billed at 758,250, not the amount you mention.",DISPUTES_DATA,train,DISPUTES_DATA_1
+"Dear Team, PFA the scanned GST/24255 along with the delivery challan. Regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_3
+"Respected Sir, Our company has a new point of cotact for GST matters from March. Regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_5
+"Dear Madam, This was missed by our accounts team by mistake. We shall rectify it while filing GSTR-1 for May. Thank yu.",WILL_AMEND,train,WILL_AMEND_1
+"Hello, This invoice was not for your company, it was raised to another customer. Thank you.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_2
+"Dear Sir, PFA the scanned invoice GST29830 along with the delivery challan. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_3
+Part quantity of INV/90201 was returned and a credit note was issued for the same. Thanks and regards.,CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_6
+"Please advise if the matter regarding SI35108 has been closed at your end. Best regards, Accounts Team.",STATUS_REQUEST,test,STATUS_REQUEST_9
+"hi, noted your mail regarding bl90469, we will check. thank you.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_8
+"Dear Sir, The invoice INV-54781 belongs to your other plant; it was billed to GSTIN 10MRAHU8056M1ZG. Thank you.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_1
+"Dear Sir, We have corrected the GSTIN on BL/96069 and filed the amendment last week. Best regards, Accounts Team.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_1
+"Respected Sir, The amount of Rs 194,257 you have booked is wrong; our invoice BL-78018 says otherwise. Regards, Finance Dept.",DISPUTES_DATA,test,DISPUTES_DATA_8
+The gap of Rs 720071 is due to the credit note issued in February against SI30390. Thank you.,CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_2
+"Dear Sir, Request you to confirm if our earlier correction for BL/67036 is accepted.",STATUS_REQUEST,train,STATUS_REQUEST_5
+"Hi, Credit note against TI17662 was reported separately in GSTR-1, hence the lower value. Regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_4
+"hello, thanks for the update, will look into it. regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_3
+"Dear Sir, This was not for your company, it was raised to another customer. Regards, Finance Dept.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_2
+It will be easier to this over a meeting. Please share a convenient time. Thanks and regards.,MEETING_REQUEST,train,MEETING_REQUEST_1
+"hi, kindly direct all gst queries to our central accounts mailbox from now on. regards, finance dept.",CONTACT_CHANGE,test,CONTACT_CHANGE_8
+"Hi, A credit note was raised for rate difference on INV-95186, which explains the mismatch. Thank you.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_1
+"dear madam, request you to confirm if our earlier correction for ti/48260 is accepted. thank you.",STATUS_REQUEST,train,STATUS_REQUEST_5
+kindly direct all gst queries to our central accounts mailbox from now on. thanks and regards.,CONTACT_CHANGE,test,CONTACT_CHANGE_8
+"dear sir, okay, noted. our team will review. regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_5
+"Dear Madam, According to our reconciliation, nothing is wrong with GST22514. Please review your entries. Thank you.",DISPUTES_DATA,test,DISPUTES_DATA_9
+"Hello, We already updated the taxable value for TI-77638 on the GST portal. Thanks and regards.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_7
+"Hi, Thank you for the information. We have noted it. Thank you.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_0
+"Respected Sir, This document is for a different branch of yours, registered under 35VEDZU7408G1ZV. Thanks and regards.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_7
+"Dear Sir, This was missed by our accounts team by mistake. We shall rectify it filing GSTR-1 for November. Regards.",WILL_AMEND,train,WILL_AMEND_1
+We had issued a debit not for GST9324; that is why the values differ. Regards.,CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_3
+"Dear Sir, This issue is already resolved. The revised invoice TI10572 is now visible on the portal. Regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_2
+"Dear Madam, Kindly direct all GST queries to our central accounts mailbox from now on. Thanks and regards.",CONTACT_CHANGE,test,CONTACT_CHANGE_8
+"Dear Team, Please allow us till December to amend the details of INV/13387 on the portal. Thanks and regards.",WILL_AMEND,test,WILL_AMEND_8
+"Hello, We had issued a debit note for SI/58424; that is why the values differ. Regards, Finance Dept.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_3
+"Dear Sir, This was missed by our accounts team by mistake. We shall rectify it while filing GSTR-1 for June.",WILL_AMEND,train,WILL_AMEND_1
+"Respected Sir, Kindly see the attachment, it contains the invoice and credit note for SI-35469. Thanks and regards.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_7
+"Dear Sir, Please let us know when your team is available to connect on TI54993. Regards.",MEETING_REQUEST,test,MEETING_REQUEST_9
+"Hi, have not heard back. Is the mismatch for BL65566 closed?",STATUS_REQUEST,train,STATUS_REQUEST_6
+"Hello, Kindly share your phone number so we can discuss GST-77881 directly. Thanks and regards.",MEETING_REQUEST,train,MEETING_REQUEST_4
+"Dear Madam, Kindly direct all GST queries to our central accounts mailbox from now on.",CONTACT_CHANGE,test,CONTACT_CHANGE_8
+Can someone from your side join a call on the July reconciliation? Thanks and regards.,MEETING_REQUEST,train,MEETING_REQUEST_6
+"Dear Sir, We have corrected the GSTIN on BL/97447 and filed the amendment last week. Thank you.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_1
+"Hello, We accept the mismatch and will fix it in the next GSTR-1, which is due in November. Best regards, Accounts Team.",WILL_AMEND,train,WILL_AMEND_6
+"Dear Madam, Attached are the tax invoice and e-way bill for GST/17899. Kindly check. Best regards, Accounts Team.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_1
+"Respected Sir, We had issued a debit note for BL/91526; that why the values differ.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_3
+"Respected Sir, There is no such invoice GST-41340 raised by us. Please check your register. Regards.",DISPUTES_DATA,train,DISPUTES_DATA_2
+"Dear Madam, Can we schedule a call to discuss the differences for January?",MEETING_REQUEST,train,MEETING_REQUEST_0
+"Hi, Can you please confirm whether the issue for INV/6089 is resolved now? Regards, Finance Dept.",STATUS_REQUEST,train,STATUS_REQUEST_0
+"Respected Sir, The invoice BL28884 was not reported earlier; it will be included when we file for June. Thank you.",WILL_AMEND,test,WILL_AMEND_7
+"Hi, The reduction on GST-82889 is on account of a discount credit note of Rs 654,380.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_5
+"Respected Sir, Attaching the relevant invoice INV/23184 and our ledger extract for September. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_9
+"Hello, The gap of Rs 128,416 is due to the credit note issued in February against INV/90300. Regards, Finance Dept.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_2
+"Hello, The tax amount in your mail does not match our ledger. Kindly recheck SI65788. Best regards, Accounts Team.",DISPUTES_DATA,train,DISPUTES_DATA_3
+"Respected Sir, We acknowledge receipt of your reminder for April. Regards, Finance Dept.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_4
+"Hello, Please note SI/23376 was issued to another party, not to your organisation. Thanks and regards.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_8
+"Dear Team, I have moved to another role. lease follow up with our finance team for SI/53813. Thanks and regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_1
+"Dear Madam, This invoice was not for your company, it was raised to another customer. Regards, Finance Dept.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_2
+"Dear Sir, We acknowledge receipt of your reminder for December. Regards, Finance Dept.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_4
+kindly let us know if anything is still pending from our side. thanks and regards.,STATUS_REQUEST,train,STATUS_REQUEST_2
+"Dear Sir, The invoice INV-94531 has already been amended in our GSTR-1 for September. Please check 2B again. Thank you.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_0
+"Hi, According to our reconciliation, nothing is wrong with GST59190. Please review your entries.",DISPUTES_DATA,test,DISPUTES_DATA_9
+"dear madam, we acknowledge receipt of your reminder for december. thank you.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_4
+"Dear Madam, A credit note was raised for rate diffeence on GST-13488, which explains the mismatch. Thank you.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_1
+"Hello, Request a short video call this week to close the pending mismathes. Regards, Finance Dept.",MEETING_REQUEST,train,MEETING_REQUEST_5
+"Dear Madam, We filed the correction for GST/97321 on time, it should reflect in your 2A now. Best Accounts Team.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_4
+"Respected Sir, Credit note against SI-87530 was reported separately in GSTR-1, hence the lower value. Thanks and regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_4
+"Hello, Please remove me from this thread and send future reminders to our accounts head.",CONTACT_CHANGE,train,CONTACT_CHANGE_4
+"dear team, the difference in gst/77588 is because we issued a credit note of rs 409,392 against it. best regards, accounts team.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_0
+"Dear Sir, We do not agree with the difference shown. As per our books, BL35978 is correctly reported. Best regards, Accounts Team.",DISPUTES_DATA,train,DISPUTES_DATA_0
+"Dear Madam, Please find attached the invoice copy for INV/4597 as requested.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_0
+"Thanks for the update, will look into it. Regards, Finance Dept.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_3
+"dear madam, it will be easier to resolve this over a meeting. please share a convenient time.",MEETING_REQUEST,train,MEETING_REQUEST_1
+"Hello, Kindly update our email ID in your records; the old mailbox is no longer monitored. Regards, Finance Dept.",CONTACT_CHANGE,train,CONTACT_CHANGE_2
+"Dear Team, We already updated the taxable value for BL/16650 on the GST portal.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_7
+"Dear Madam, We do not agree with the difference shown. As per our books, TI/32504 is correctly reported. Best regards, Accounts Team.",DISPUTES_DATA,train,DISPUTES_DATA_0
+"DearTeam, Credit note against GST-79852 was reported separately in GSTR-1, hence the lower value. Thanks and regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_4
+"Hello, Invoice SI-55405 was raised to a different GSTIN by mistake. We will issue a corrected one. Thanks and regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_0
+"Dear Sir, Request you to confirm if our earlier correction for TI37968 is accepted. Thank you.",STATUS_REQUEST,train,STATUS_REQUEST_5
+"Dear Team, We ccept the mismatch and will fix it in the next GSTR-1, which is due in April. Best regards, Accounts Team.",WILL_AMEND,train,WILL_AMEND_6
+"Hello, We have reported INV60433 correctly in GSTR-1; the error is in your booking. Thanks and regards.",DISPUTES_DATA,train,DISPUTES_DATA_4
+"Hi, Can you please confirm whether the issue for TI/34144 is resolved now? Best regards, Accounts Team.",STATUS_REQUEST,train,STATUS_REQUEST_0
+"Hi, We would like to meet your accounts team to reconcile all open invoices. Regards, Finance Dept.",MEETING_REQUEST,train,MEETING_REQUEST_3
+"hello, we passed a credit note in february for inv2469, so net tax is lower than your books. regards, finance dept.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_9
+"Dear Sir, The buyer name on GST/16461 is incorrect, it should have been your company.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_5
+"The tax difference of Rs887,089 on BL-46603 was fixed in our last filing. Regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_5
+"Respected Sir, Invoice INV40996 was billed to your unit in another state, please check that GSTIN. Thank you.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_4
+"dear sir, thank you for the information. we have noted it. regards, finance dept.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_0
+"Hello, There is no such invoice SI71028 raised by us. Please check your purchase register.",DISPUTES_DATA,train,DISPUTES_DATA_2
+"respected sir, can we schedule a call to discuss the differences for april? regards.",MEETING_REQUEST,train,MEETING_REQUEST_0
+"Respected Sir, We have attached the GSTR-1 screenshot showing BL/79558. Thank you.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_5
+"Dear Madam, Please let us know when your team is available to connect on INV27750. Best regards, Accounts Team.",MEETING_REQUEST,test,MEETING_REQUEST_9
+"Dear Madam, Invoice SI/42958 was raised to a different GSTIN by mistake. We will issue a corrected one. Thanks and regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_0
+"Hello, Part quantity of B/31554 was returned and a credit note was issued for the same. Best regards, Accounts Team.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_6
+"Dear Sir, We will upload the missing invoice BL-64993 in our upcoming return for July. Best regards, Accounts Team.",WILL_AMEND,train,WILL_AMEND_3
+"Hi, Okay, noted. Our team will review. Regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_5
+"Dear Sir, We have not heard back. Is the mismatch for SI-95936 closed? Regards.",STATUS_REQUEST,train,STATUS_REQUEST_6
+"respected sir, noted. amendment for inv/35737 will be done in the subsequent return period. best regards, accounts team.",WILL_AMEND,train,WILL_AMEND_5
+"Dear Team, Is there any further action required from us for invoice BL80848?",STATUS_REQUEST,train,STATUS_REQUEST_4
+We billed SI59950 under GSTIN 28KRYEZ4005Z1ZU in error and are correcting the party details. Regards.,WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_6
+"Dear Team, We wrongly mentioned buyer GSTIN 23CFKCT4955S1ZV on TI/33949. Kindly ignore it. Thank you.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_3
+"Hi, Is there any further action required from us for invoice SI-49927? Regards, Finance Dept.",STATUS_REQUEST,train,STATUS_REQUEST_4
+"hello, we passed a credit note in march for si/46043, so net tax is lower than your books. thank you.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_9
+Please advise if the matter regarding has been closed at your end.,STATUS_REQUEST,test,STATUS_REQUEST_9
+"Dear Madam, Adding our GST team in this mail, they will handle the reconciliation from now. Regards, Finance Dept.",CONTACT_CHANGE,train,CONTACT_CHANGE_3
+"Hello, The mismatch reflects the credit note for short supply against invoice SI55747. Regards, Finance Dept.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_8
+"Respected Sir, Please update the vendor contact details, the new email is copied here. Thanks and regards.",CONTACT_CHANGE,test,CONTACT_CHANGE_7
+"Dear Madam, Please verify your data, we never issued invoice TI/46442 in October. Thanks and regards.",DISPUTES_DATA,test,DISPUTES_DATA_7
+We will upload the missing invoice BL-75177 in our upcoming return for April. Thank you.,WILL_AMEND,train,WILL_AMEND_3
+"Respected Sir, Noted with thanks. Regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_2
+"Hi, Adding our GST team in this mail, they will andle the reconciliation from now. Thanks and regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_3
+"Dear Madam, We have reported GST/11814 correctly in GSTR-1; the error is in your booking. Regards.",DISPUTES_DATA,train,DISPUTES_DATA_4
+"The reduction on INV66592 is on account of a discount credit note of Rs 821,410. Thank you.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_5
+"dear madam, received your mail, we will check and revert.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_1
+"The gap of Rs 614,512 is due to the credit note issued in August against BL/47590.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_2
+we have noted the difference in invoice inv-98196 and will amend it in the august return.,WILL_AMEND,train,WILL_AMEND_0
+The invoice INV/18555 has already been amended in our GSTR-1 for August. Please check 2B again. Thank you.,ALREADY_CORRECTED,train,ALREADY_CORRECTED_0
+"Hi, PFA thescanned invoice SI-51577 along with the delivery challan. Regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_3
+"Dear Team, We have reported TI84634 correctly in GSTR-1; the error is in your booking. Thanks and regards.",DISPUTES_DATA,train,DISPUTES_DATA_4
+"Dear Sir, Please find attached invoice copy for TI74170 as requested. Thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_0
+"Dear Sir, We would like to meet your accounts team to reconcile all open invoices. Regards, Finance Dept.",MEETING_REQUEST,train,MEETING_REQUEST_3
+"Dear Team, Amendment done for SI-15026 in the May return. Kindly verify at your end. Thank you.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_3
+"hi, this issue is already resolved. the revised invoice bl/55505 is now visible on the portal. thanks and regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_2
+"Respected Sir, There is no such invoice SI-9299 raised by us. Please check your purchase register. Regards.",DISPUTES_DATA,train,DISPUTES_DATA_2
+"Respected Sir, Thank you for the information. We have noted it.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_0
+"Here is the copy of INV/74140 you asked for, attached in PDF format. Regards.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_8
+"Dear Team, Amendment done INV/50436 in the February return. Kindly verify at your end.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_3
+"Dear Sir, The person handling this has left; please mark our tax consultant in future mails. Regards, Finance Dept.",CONTACT_CHANGE,train,CONTACT_CHANGE_6
+"Hi, Please verify your data, we never issued invoice SI/51608 in September. Thank you.",DISPUTES_DATA,test,DISPUTES_DATA_7
+"Dear Madam, Invoice SI-28849 was raised to a different GSTIN by mistake. We will issue a corrected one. Thanks and regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_0
+"Dear Madam, This issue is already resolved. The revised invoice BL/55592 is now visible on the portal. Regards, Finance Dept.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_2
+"Respected Sir, Okay, noted. Our team will review. Regards, Finance Dept.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_5
+"Dear Team, The invoice BL/47131 belongs to your other plant; it was billed to GSTIN 36CMPGE7503S1ZP.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_1
+"Dear Team, Kindly update our email ID in your records; the old mailbox is no longer monitored. Thank you.",CONTACT_CHANGE,train,CONTACT_CHANGE_2
+"Dear Madam, Could you update us on whether the May differences are cleared? Best regards, Accounts Team.",STATUS_REQUEST,test,STATUS_REQUEST_8
+"Hi, Kindly update our email ID in your records; the old mailbox is no longer monitored. Regards, Finance Dept.",CONTACT_CHANGE,train,CONTACT_CHANGE_2
+"Dear Team, The ship-to and bill-to GSTIN on invoice TI-55994 were swapped by mistake. Regards, Finance Dept.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_9
+"Respected Sir, As discussed, we are sharing the signed copy of invoice BL33537 with this mail. Thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_2
+"Please adjust the credit note raised against INV-19931; it covers the full difference. Best regards, Accounts Team.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_7
+"Dear Sir, There is no such invoice BL/36527 raised by us. Please check your purchase register.",DISPUTES_DATA,train,DISPUTES_DATA_2
+"Respected Sir, We propose a meeting within 5 days to settle the open differences. Thank you.",MEETING_REQUEST,test,MEETING_REQUEST_8
+"Dear Madam, Enclosed herewith the documents for GST/17805 for your verificaion. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_4
+"let us discuss over a call, the mail thread for gst-44915 is getting long. best regards, accounts team.",MEETING_REQUEST,test,MEETING_REQUEST_7
+"dear madam, noted your mail regarding gst-6104, we will check. best regards, accounts team.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_8
+"Dear Team, Please advise if the matter regarding SI/59478 has been closed at your end. Regards, Finance Dept.",STATUS_REQUEST,test,STATUS_REQUEST_9
+"Dear Team, Please arrange a call with your GST team to discuss TI-28403. Regards, Finance Dept.",MEETING_REQUEST,train,MEETING_REQUEST_2
+"Dear Team, We propose a meeting within 4 days to settle the open differences.",MEETING_REQUEST,test,MEETING_REQUEST_8
+"Hello, This invoice was not for your company, it was raised to another customer. Thank you.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_2
+"Respected Sir, Thanks for the update, will look into it. Best regards, Accounts Team.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_3
+"dear madam, we do not agree with the difference shown. as per our books, si-50899 is correctly reported. regards, finance dept.",DISPUTES_DATA,train,DISPUTES_DATA_0
+"Dear Team, There is no such invoice INV40235 raised by us. Please check your purchase register.",DISPUTES_DATA,train,DISPUTES_DATA_2
+"Dear Madam, Please note TI/83420 was issued to another party, not to your organisation. Best regards, Accounts Team.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_8
+"Dear Madam, We wrongly mentioned buyer GSTIN 37CESKD2932R1ZH on SI/82981. Kindly ignore it. Best regards, Accounts Team.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_3
+"Respected Sir, Please adjust the credit note raised against GST45944; it covers the full difference.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_7
+"Dear Sir, Thank you, we have forwarded this to the concerned person. Regards, Finance Dept.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_6
+"Dear Team, A credit note was raised for rate difference on SI-79654, which explains the mismatch. Regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_1
+"Dear Sir, The tax difference of Rs 453,625 on TI-84948 was fixed in our last filing. Thanks and regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_5
+"Hi, Could you update us on whether the November differences are cleared? Thanks and regards.",STATUS_REQUEST,test,STATUS_REQUEST_8
+"Dear Team, Invoice SI17040 was billed to your unit in another state, please check tht GSTIN. Best regards, Accounts Team.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_4
+"dear madam, we acknowledge receipt of your reminder for december. regards, finance dept.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_4
+The person handling this has left; please mark our tax consultant in future mails. Thank you.,CONTACT_CHANGE,train,CONTACT_CHANGE_6
+"Hello, We dispute the figures shared. Our ledger shows Rs 343,694 against SI33329. Regards, Finance Dept.",DISPUTES_DATA,train,DISPUTES_DATA_6
+"Respected Sir, Kindly let us know if anything is still pending from our side. Regards, Finance Dept.",STATUS_REQUEST,train,STATUS_REQUEST_2
+"Dear Team, We are aware of the gap and plan to report SI-17545 in our May filing without fail. Thank you.",WILL_AMEND,test,WILL_AMEND_9
+"Dear Sir, We passed a credit note in March for BL87840, so net tax is lower than your books. Thanks and regards.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_9
+"Dear Madam, The invoice TI74233 was not reported earlier; it will be included when we file for February. Thank you.",WILL_AMEND,test,WILL_AMEND_7
+"respected sir, as discussed, we are sharing the signed copy of invoice si/87993 with this mail. regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_2
+"Hi, The invoice SI/76353 has been amended in our GSTR-1 for May. Please check 2B again. Best regards, Accounts Team.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_0
+"Hello, Please update the vendor contact details, the new email is copied here. Best regards, Accounts Team.",CONTACT_CHANGE,test,CONTACT_CHANGE_7
+"Hello, The ship-to and bill-to GSTIN on invoice TI/90245 were swapped by mistake. Regards.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_9
+"Hello, We will upload the missing invoice INV/60087 in our upcoming return for July. Regards.",WILL_AMEND,train,WILL_AMEND_3
+"hello, as discussed, we are sharing the signed copy of invoice bl/77389 with this mail. regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_2
+"Hello, The buyer name on INV34954 is incorrect, it should have been your company.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_5
+"dear sir, the difference in inv/95926 is because we issued a credit note of rs 248,007 against it. best regards, accounts team.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_0
+"Hi, The tax amount in your mail does not match our ledger. Kindly recheck TI/9180. Best regards, Accounts Team.",DISPUTES_DATA,train,DISPUTES_DATA_3
+"Dear Madam, Invoice SI/92575 was raised to a different GSTIN by mistake. We will issue a one. Best regards, Accounts Team.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_0
+"Respected Sir, This issue is already resolved. The revised invoice BL/92266 is now visible on the portal. Thank you.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_2
+"Hi, Let us discuss over a call, the mail for GST-92160 is getting long.",MEETING_REQUEST,test,MEETING_REQUEST_7
+"Respected Sir, Please adjust the credit note raised against BL/20472; it covers the full difference. Thank you.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_7
+Please remove me from this thread and send future reminders to our accounts head. Thanks and regards.,CONTACT_CHANGE,train,CONTACT_CHANGE_4
+"Hi, Could you update us on whether the October differences are cleared? Regards, Finance Dept.",STATUS_REQUEST,test,STATUS_REQUEST_8
+"Dear Madam, We wrongly mentioned buyer GSTIN 20NCWRN8729V1ZX on GST/94740. Kindly ignore it. Regards, Finance Dept.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_3
+"The gap of Rs 630,002 is due to the credit note issued in January against SI/36190. Best regards, Accounts Team.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_2
+"dear madam, we had issued a debit note for gst/22237; that is why the values differ. thank you.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_3
+"Dear Team, Amendment done for INV7358 in the April return. Kindly verify at your end.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_3
+"Dear Madam, Kindly update our email ID in your rcords; the old mailbox is no longer monitored. Best regards, Accounts Team.",CONTACT_CHANGE,train,CONTACT_CHANGE_2
+"Respected Sir, The invoice TI-14474 was not reported earlier; it will be included when we file for June. Best regards, Accounts Team.",WILL_AMEND,test,WILL_AMEND_7
+"Respected Sir, Can someone from your side join a call on the May reconciliation?",MEETING_REQUEST,train,MEETING_REQUEST_6
+"Dear Madam, Acknowledged. We will respond after internal review. Best regards, Accounts Team.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_9
+"Respected Sir, Let us discuss over a call, the mail thread for TI45909 is getting ong. Best regards, Accounts Team.",MEETING_REQUEST,test,MEETING_REQUEST_7
+"Respected Sir, We wrongly mentioned buyer GSTIN 34RGGUR9205M1ZM on BL10432. Kindly ignore it. Regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_3
+"Hello, There is no such invoice TI-45579 raised by us. Please check your purchase register. Thank you.",DISPUTES_DATA,train,DISPUTES_DATA_2
+"Please recheck, SI/43318 was rectified in the August return and the status shows filed.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_6
+"Dear Sir, Acknowledged. We will respond after internal review. Regards.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_9
+"Hello, The invoice GST10724 was not reported earlier; it will be included when we file for August. Thank you.",WILL_AMEND,test,WILL_AMEND_7
+"dear sir, can someone from your side join a call on the february reconciliation? regards.",MEETING_REQUEST,train,MEETING_REQUEST_6
+"dear madam, received your mail, we will check and revert. thank you.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_1
+"hello, the difference in si/42766 is because we issued a credit note of rs 665,221 against it. regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_0
+"this mismatch is due to wrong entry at your end, our filing for ti49487 is accurate.",DISPUTES_DATA,train,DISPUTES_DATA_5
+"Respected Sir, We will upload the missing BL/47112 in our upcoming return for March. Regards, Finance Dept.",WILL_AMEND,train,WILL_AMEND_3
+"Hi, We have not heard back. Is the mismatch for SI-1158 closed? Regards, Finance Dept.",STATUS_REQUEST,train,STATUS_REQUEST_6
+"dear sir, noted with thanks. thanks and regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_2
+"Hello, We have not back. Is the mismatch for TI-48500 closed? Regards.",STATUS_REQUEST,train,STATUS_REQUEST_6
+"Respected Sir, Noted. Amendment for TI/5852 will be done in the subsequent return period. Regards, Finance Dept.",WILL_AMEND,train,WILL_AMEND_5
+"dear madam, this invoice was not for your company, it was raised to another customer. thanks and regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_2
+"Hi, Part quantity of GST35257 was returned and a credit note was issued for the same. Regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_6
+"Hello, We have noted the difference in invoice TI/70163 and will amend it in the January return. Best regards, Accounts Team.",WILL_AMEND,train,WILL_AMEND_0
+"dear sir, please verify your data, we never issued invoice gst-20443 in september. regards.",DISPUTES_DATA,test,DISPUTES_DATA_7
+"dear sir, your records seem incorrect. invoice bl/18001 was billed at rs 590,464, not the amount you mention.",DISPUTES_DATA,train,DISPUTES_DATA_1
+"Hello, We had issued a debit note for SI/62799; that is why the values differ. Thank you.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_3
+"Respected Sir, We propose a meeting within 8 days to settle the open differences. Thank you.",MEETING_REQUEST,test,MEETING_REQUEST_8
+"Respected Sir, Received with thanks. Will get back shortly. Thanks and regards.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_7
+"Dear Team, Could you update us on whether the April differences are cleared? Best regards, Accounts Team.",STATUS_REQUEST,test,STATUS_REQUEST_8
+Received your we will check and revert.,ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_1
+"Respected Sir, Credit note against GST/83180 was reported separately in GSTR-1, hence the lower value. Regards, Finance Dept.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_4
+"Hi, We do not agree with the difference shown. As per our books, GST/4862 is correctly reported. Best regards, Accounts Team.",DISPUTES_DATA,train,DISPUTES_DATA_0
+"Okay, noted. Our team will review.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_5
+"this invoice was not for your company, it was raised to another customer.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_2
+"amendment done for ti30603 in the august return. kindly verify at your end. regards, finance dept.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_3
+"Hi, We billed INV/9816 under GSTIN 14YFBPY5310V1ZN in error and are correcting the party details. Thanks and regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_6
+"Dear Team, The reduction on GST/50219 is on account of a discount credi note of Rs 54,898.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_5
+"Dear Madam, We have attached the GSTR-1 filing screenshot showing SI/88773. Thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_5
+"Dear Madam, Let us discuss over a call, the mail thread for GST/11222 is getting long. Thank you.",MEETING_REQUEST,test,MEETING_REQUEST_7
+"Dear Team, Our company has a new point of contact for GST matters from August.",CONTACT_CHANGE,train,CONTACT_CHANGE_5
+"Hi, Part quantity of TI-37429 was returned and a credit note was issued for the same. Thank you.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_6
+"Dear Madam, We accept the mismatch and will fix it in the next GSTR-1, which is due in May. Thank you.",WILL_AMEND,train,WILL_AMEND_6
+"Dear Team, Adding our GST team in this mail, will handle the reconciliation from now. Best regards, Accounts Team.",CONTACT_CHANGE,train,CONTACT_CHANGE_3
+"Dear Team, Kindly update our email ID in your records; old mailbox is no longer monitored. Regards, Finance Dept.",CONTACT_CHANGE,train,CONTACT_CHANGE_2
+"Hello, Kindly confirm whether you need anything more for GST/34557. Thanks and regards.",STATUS_REQUEST,test,STATUS_REQUEST_7
+"Hi, Can we schedule a call to discuss the differences for April?",MEETING_REQUEST,train,MEETING_REQUEST_0
+"Dear Madam, Please share the current status of the reconciliation for October.",STATUS_REQUEST,train,STATUS_REQUEST_3
+"respected sir, the gap of rs 477,600 is due to the credit note issued in march against gst/77966. regards, finance dept.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_2
+"Dear Madam, The reducion on BL/86597 is on account of a discount credit note of Rs 1,069. Best regards, Accounts Team.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_5
+"Hi, Thanks for the update, will look into it. Regards, Finance Dept.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_3
+"Dear Team, Please verify your data, we never issued invoice GST-96420 in October.",DISPUTES_DATA,test,DISPUTES_DATA_7
+The invoice BL/87954 belongs to your other plant; it was billed to GSTIN 24QAMKY6467S1ZX. Thanks and regards.,WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_1
+We are aware of the gap and plan to report GST58008 in our August filing without fail. Regards.,WILL_AMEND,test,WILL_AMEND_9
+"Dear Sir, This issue is already resolved. The revised invoice TI-3979 is now visible on the portal. Regards, Finance Dept.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_2
+"dear team, the amount of rs 537,922 you have booked is wrong; our invoice si16674 says otherwise. regards.",DISPUTES_DATA,test,DISPUTES_DATA_8
+"Dear Team, We passed a credit note in December for SI-94392, so net tax is lower than your books. Regards.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_9
+"Dear Team, We had issued a debit note for BL-1766; that is why the values differ. Best regards, Accounts Team.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_3
+Kindly confirm whether you need anything more for BL/49979. Regards.,STATUS_REQUEST,test,STATUS_REQUEST_7
+"dear madam, we had issued a debit note for inv30712; that is why the values differ. regards, finance dept.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_3
+"hello, the mismatch reflects the credit note for short supply against invoice inv/68964. regards.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_8
+"Respected Sir, Kindly let us know if anything is still pending our side. Regards, Finance Dept.",STATUS_REQUEST,train,STATUS_REQUEST_2
+"Dear Team, Can someone from your side join a call on the November reconciliation? Regards, Finance Dept.",MEETING_REQUEST,train,MEETING_REQUEST_6
+"dear madam, please find attached the invoice copy for si/36313 as requested. regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_0
+"respected sir, it will be easier to resolve this over a meeting. please share a convenient time. regards, finance dept.",MEETING_REQUEST,train,MEETING_REQUEST_1
+"Dear Madam, Part quantity of SI-56982 was returned and a credit note was issued for the same.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_6
+"Respected Sir, Please allow us till December to amend the details of SI/69690 on the portal. Regards, Finance Dept.",WILL_AMEND,test,WILL_AMEND_8
+"hello, it will be easier to resolve this over a meeting. please share a convenient time. best regards, accounts team.",MEETING_REQUEST,train,MEETING_REQUEST_1
+Please share the current status of the reconciliaton for March. Regards.,STATUS_REQUEST,train,STATUS_REQUEST_3
+"Please share current status of the reconciliation for October. Regards, Finance Dept.",STATUS_REQUEST,train,STATUS_REQUEST_3
+"Dear Madam, Kindly give us some time, the correction for SI-69146 will reflect in next month's filing. Thanks and regards.",WILL_AMEND,train,WILL_AMEND_2
+"Respected Sir, Received your mail, we will check and revert. Thanks and regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_1
+"Hello, Our conultant will correct the tax amount for BL-23962 in the coming month. Thanks and regards.",WILL_AMEND,train,WILL_AMEND_4
+"Hi, Please advise if the matter regarding TI-43931 has been closed at your end. Best regards, Accounts Team.",STATUS_REQUEST,test,STATUS_REQUEST_9
+"Dear Madam, We propose a meeting within 9 days to settle the open differences. Thanks and regards.",MEETING_REQUEST,test,MEETING_REQUEST_8
+"Hello, Thank you for the information. We have noted it.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_0
+"Dear Sir, We filed the correction for INV61505 on time, it should reflect in your 2A now. Thanks and regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_4
+"Dear Madam, Part quantity of INV63459 was returned and a credit note was issued for the same.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_6
+"Dear Team, According to our reconciliation, nothing is wrong with BL89672. Please review your entries. Regards.",DISPUTES_DATA,test,DISPUTES_DATA_9
+"Respected Sir, Could you update us on whether the December differences are cleared? Thanks and regards.",STATUS_REQUEST,test,STATUS_REQUEST_8
+"Dear Madam, Okay, noted. Our team will review. Regards, Finance Dept.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_5
+"Hello, Invoice INV-73521 was billed to your unit in another state, please check that GSTIN. Regards, Finance Dept.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_4
+"DearTeam, Correction for invoice BL-83674 has been completed and is reflecting in GSTR-2B. Thank you.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_8
+"dear team, kindly give us some time, the correction for ti-4101 will reflect in next month's filing.",WILL_AMEND,train,WILL_AMEND_2
+"dear team, we have corrected the gstin on bl26318 and filed the amendment last week. regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_1
+"Dear Madam, We have not heard back. Is the for INV/23224 closed? Regards.",STATUS_REQUEST,train,STATUS_REQUEST_6
+"Dear Madam, Thanks for the update, will look into it. Thanks and regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_3
+"Hello, We would like to meet your accounts team to reconcile all open invoices. Thank you.",MEETING_REQUEST,train,MEETING_REQUEST_3
+"Dear Madam, As discussed, we are sharing the signed copy of invoice INV57729 with this mail. Thank you.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_2
+"Dear Madam, Noted. Amendment for BL/84746 will be done in the subsequent return period. Thanks and regards.",WILL_AMEND,train,WILL_AMEND_5
+"Dear Sir, This was missed by our accounts team by mistake. We shall rectify it while filing GSTR-1 for August. Thank you.",WILL_AMEND,train,WILL_AMEND_1
+"Dear Team, The amount of Rs 429,850 you have booked is wrong; our invoice BL/12593 says otherwise. Best regards, Accounts Team.",DISPUTES_DATA,test,DISPUTES_DATA_8
+"Dear Team, We propose a meeting within 8 days to settle the open differences. Thanks and regards.",MEETING_REQUEST,test,MEETING_REQUEST_8
+"Dear Sir, Please note our accounts contact has changed. Kindly write to the new team going forward. Thank you.",CONTACT_CHANGE,train,CONTACT_CHANGE_0
+Acknowledged. We will respond after internal review. Thank you.,ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_9
+"Dear Team, We passed a credit note in September for BL-43879, so net is lower than your books. Thanks and regards.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_9
+"Dear Madam, Enclosed herewith the documents for BL36847 for your verification. Thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_4
+"Dear Team, Can you please confirm whether the issue for INV51506 is resolved now? Best regards, Accounts Team.",STATUS_REQUEST,train,STATUS_REQUEST_0
+"Hello, Can you please confirm whether the issue for GST/50508 is resolved now?",STATUS_REQUEST,train,STATUS_REQUEST_0
+"Kindly confirm whether you need anything more for INV/56524. Best regards, Accounts Team.",STATUS_REQUEST,test,STATUS_REQUEST_7
+"Dear Team, We had issued a debit note for BL/97017; that is why the values differ. Thanks and regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_3
+"Dear Sir, We already updated the taxable value for INV/60270 on the GST portal. Regards.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_7
+"Respected Sir, The tax difference of Rs 779,086 on GST-60942 was fixed in our last filing.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_5
+"Hi, This document is for a different branch of yours, registered under 25WNEZJ2391C1ZC. Regards, Finance Dept.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_7
+"Respected Sir, Kindly see the attachment, it contains the invoice and credit note for GST/35053. Thnk you.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_7
+"Hello, We fled the correction for BL77089 on time, it should reflect in your 2A now.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_4
+The mismatch was sorted out in October; nothing is pending from our side for GST/35620. Thank you.,ALREADY_CORRECTED,test,ALREADY_CORRECTED_9
+"Dear Madam, Attached are the tax invoice and e-way bill for TI/65248. check. Best regards, Accounts Team.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_1
+"Dear Madam, Please note GST43255 was issued to another party not to your organisation. Best regards, Accounts Team.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_8
+"hi, the mismatch reflects the credit note for short supply against invoice inv73470. best regards, accounts team.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_8
+"hi, please update the vendor contact details, the new email is copied here. thanks and regards.",CONTACT_CHANGE,test,CONTACT_CHANGE_7
+"Dear Sir, Please advise if the matter regarding INV51122 has been closed at your end. Best regards, Accounts Team.",STATUS_REQUEST,test,STATUS_REQUEST_9
+our consultant will correct the tax amount for gst/15953 in the coming month. regards.,WILL_AMEND,train,WILL_AMEND_4
+"Hi, Enclosed herewith the documents for TI/52445 for your verification. Regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_4
+"A credit note was raised for rate difference on TI78728, which explains the mismatch.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_1
+"dear madam, correction for invoice ti51911 has been completed and is reflecting in gstr-2b. best regards, accounts team.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_8
+"Hello, Acknowledged. We will respond after internal review. Regards, Finance Dept.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_9
+"Hello, Please allow us till January to amend the details of INV45140 on the portal. Thanks and regards.",WILL_AMEND,test,WILL_AMEND_8
+"Dear Madam, Invoice GST-74615 was raised to a different GSTIN by mistake. We will issue a corrected one. Regards, Finance Dept.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_0
+"Respected Sir, This mismatch is due to wrong entry at your end, our filing for INV52181 is accurate. Regards, Finance Dept.",DISPUTES_DATA,train,DISPUTES_DATA_5
+Kindly update our email ID in your records; the old mailbox is no longer monitored. Thank you.,CONTACT_CHANGE,train,CONTACT_CHANGE_2
+"Dear Sir, Enclosed herewith the documents for SI-32938 for your verification. Thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_4
+"Can someone from your side join a call on the April reconciliation? Regards, Finance Dept.",MEETING_REQUEST,train,MEETING_REQUEST_6
+"Dear Team, Acknowledged. We will after internal review. Best regards, Accounts Team.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_9
+"Dear Madam, There is no such GST/70766 raised by us. Please check your purchase register.",DISPUTES_DATA,train,DISPUTES_DATA_2
+"Dear Team, Thank you, we have forwarded this to the concerned person. Regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_6
+"Dear Team, It will be easier to resolve this over a meeting. Please share a convenient time. Regards, Finance Dept.",MEETING_REQUEST,train,MEETING_REQUEST_1
+"Dear Team, Could you update us on whether the September differences are cleared? Regards, Finance Dept.",STATUS_REQUEST,test,STATUS_REQUEST_8
+"Hello, Please verify your data, we never issued invoice GST17577 in November. Best regards, Accounts Team.",DISPUTES_DATA,test,DISPUTES_DATA_7
+"hi, please arrange a call with your gst team to discuss gst57599. thank you.",MEETING_REQUEST,train,MEETING_REQUEST_2
+"Dear Sir, Kindly update email ID in your records; the old mailbox is no longer monitored. Regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_2
+"Hello, Please note our accounts contact has changed. Kindly write to the new team going forward.",CONTACT_CHANGE,train,CONTACT_CHANGE_0
+"Hi, Kindly direct all GST queries to our central accounts mailbox from now on.",CONTACT_CHANGE,test,CONTACT_CHANGE_8
+"Hello, Request you to confirm if our earlier correction for TI95472 is accepted.",STATUS_REQUEST,train,STATUS_REQUEST_5
+"Dear Madam, The mismatch was sorted out in September; nothing is pending from our side for INV/3631. Best regards, Accounts Team.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_9
+"Dear Sir, Is there any further action required from us for invoice GST-56193?",STATUS_REQUEST,train,STATUS_REQUEST_4
+"Dear Sir, The gap of Rs 583,167 is due to the credit note issued in June against GST65392. Regards, Finance Dept.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_2
+"hi, the reduction on bl/75155 is on account of a discount credit note of rs 354,733. thank you.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_5
+"Hello, Kindly share your phone number so we can discuss GST/84471 directly. Thanks and regards.",MEETING_REQUEST,train,MEETING_REQUEST_4
+"hello, the tax amount in your mail does not match our ledger. kindly recheck si/92146. best regards, accounts team.",DISPUTES_DATA,train,DISPUTES_DATA_3
+"Please note TI/50047 was issued to another party, not to your organisation. Thanks and regards.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_8
+"Dear Madam, We are awaiting your confirmation on the status of GST-36261. Please update. Thank you.",STATUS_REQUEST,train,STATUS_REQUEST_1
+"Dear Madam, Request you to confirm if our earlier correction or INV-83517 is accepted. Thanks and regards.",STATUS_REQUEST,train,STATUS_REQUEST_5
+"Hi, We have attached the GSTR-1 filing screenshot showing BL-56769. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_5
+"Respected Sir, The person handling this has left; please mark our tax consultant in future mails. Thanks and regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_6
+"Respected Sir, Invoice TI-49809 was billed to your unit in another state, plase check that GSTIN.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_4
+"The gap of Rs 310,334 is due to the credit note issued in October against GST-69562. Thank you.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_2
+"Respected Sir, We are awaiting your confirmation on the status of TI/16163. Please update. Thanks and regards.",STATUS_REQUEST,train,STATUS_REQUEST_1
+"Dear Madam, Kindly let us know if anything is still pending from our side. Thanks and regrds.",STATUS_REQUEST,train,STATUS_REQUEST_2
+"Dear Madam, Attached are the tax invoice and e-way bill for SI/36629. Kindly check. Thank you.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_1
+"Dear Team, Kindly update our email ID in your records; the old mailbox is no longer monitored. Thank you.",CONTACT_CHANGE,train,CONTACT_CHANGE_2
+"Dear Madam, Please update the vendor contact details, the new email is copied here. Regards, Finance Dept.",CONTACT_CHANGE,test,CONTACT_CHANGE_7
+"Hi, Kindly see the attachment, it contains the invoice and credit note for BL/97537. Best regards, Accounts Team.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_7
+Noted. Amendment for BL-31433 will be done in the subsequent return period. Thank you.,WILL_AMEND,train,WILL_AMEND_5
+"Dear Sir, We wrongly mentioned buyer GSTIN 02FLDYQ7187E1Z on INV/50063. Kindly ignore it. Regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_3
+"Hi, We have not heard back. Is the mismatch for BL-4956 closed? Regards.",STATUS_REQUEST,train,STATUS_REQUEST_6
+"Hi, Thank yu for the information. We have noted it. Thanks and regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_0
+"Dear Madam, Please arrange a call with your GST team to discuss SI-78892. Regards.",MEETING_REQUEST,train,MEETING_REQUEST_2
+"Respected Sir, We have noted the difference in invoice BL-50615 and will amend it in the May return. Thanks and regards.",WILL_AMEND,train,WILL_AMEND_0
+"Dear Sir, Noted your mail regarding SI75473, we will check. Regards, Finance Dept.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_8
+"Respected Sir, PFA the scanned invoice INV-98474 along with the delivery challan. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_3
+"Respected Sir, Kindly share your phone number we can discuss SI-13088 directly. Thanks and regards.",MEETING_REQUEST,train,MEETING_REQUEST_4
+"Hi, Received your mail, we will check and revert.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_1
+"dear team, invoice ti3787 was raised to a different gstin by mistake. we will issue a corrected one. regards, finance dept.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_0
+"Dear Madam, We billed TI26647 under GSTIN 10RFZRK3159G1ZW in error and are correcting the party details. Regards, Finance Dept.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_6
+"Hello, The mismatch reflects the credit note for short supply against invoice GST12109. Thank you.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_8
+"Dear Team, The invoice SI-90950 belongs to your other plant; it was billed to GSTIN 07EQDZD4941A1ZQ.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_1
+"Respected Sir, The buyer name on GST/39543 is incorrect, it should have been your company. Thanks and regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_5
+"respected sir, please adjust the credit note raised against ti-19045; it covers the full difference. regards.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_7
+"part quantity of bl-1935 was returned and a credit note was issued for the same. best regards, accounts team.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_6
+"Dear Madam, Please arrange a call with your GST team to discuss TI-10596. Best regards, Accounts Team.",MEETING_REQUEST,train,MEETING_REQUEST_2
+"Dear Team, I am no longer handling this vendor account; my colleague will reply on SI-92226. Regards.",CONTACT_CHANGE,test,CONTACT_CHANGE_9
+"As discussed, we are sharing the signed copy of invoice GST39270 with this mail. Thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_2
+"Dear Sir, Request you to confirm if our earlier correction for SI-59465 is accepted. Best regards, Accounts Team.",STATUS_REQUEST,train,STATUS_REQUEST_5
+"Dear Sir, We wrongly mentioned buyer GSTIN 17WABLP5274G1ZL on BL15532. Kindly ignore it. Regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_3
+"dear team, this was missed by our accounts team by mistake. we shall rectify it while filing gstr-1 for september. regards, finance dept.",WILL_AMEND,train,WILL_AMEND_1
+"Dear Sir, We will upload the missing invoice SI74975 in our upcoming return for February. Thank yo.",WILL_AMEND,train,WILL_AMEND_3
+"Dear Sir, Attached are the tax invoice and e-way bill for TI-72845. Kindly check.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_1
+"Hi, Thank you for the information. We have noted it. Regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_0
+"Dear Sir, According to our reconciliation, nothing is wrong with GST/98262. Please review your entries. Regards.",DISPUTES_DATA,test,DISPUTES_DATA_9
+"hi, we have not heard back. is the mismatch for inv19061 closed? best regards, accounts team.",STATUS_REQUEST,train,STATUS_REQUEST_6
+"Dear Madam, Please let us know when your team is available to connect on TI-80505. Regards.",MEETING_REQUEST,test,MEETING_REQUEST_9
+"Dear Team, Can you please confirm whether the issue for GST/32752 is resolved now? Regards.",STATUS_REQUEST,train,STATUS_REQUEST_0
+"Hi, The ship-to and bill-to GSTIN on invoice INV61687 were swapped by mistake. Thanks and regards.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_9
+"dear madam, our consultant will correct the tax amount for si79135 in the coming month. regards, finance dept.",WILL_AMEND,train,WILL_AMEND_4
+"Hi, We are aware of the gap and plan to report TI/4445 in our September filing without fail. Regards, Finance Dept.",WILL_AMEND,test,WILL_AMEND_9
+"Dear Sir, Noted. Amendment for will be done in the subsequent return period. Regards, Finance Dept.",WILL_AMEND,train,WILL_AMEND_5
+"Dear Sir, Invoice TI36066 was billed to your unit in another state, please check that GSTIN. Best regards, Team.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_4
+"Hello, Please noteour accounts contact has changed. Kindly write to the new team going forward. Regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_0
+"dear sir, can you please confirm whether the issue for inv-65440 is resolved now? best regards, accounts team.",STATUS_REQUEST,train,STATUS_REQUEST_0
+"Hello, Please share the current status of the reconciliation for February.",STATUS_REQUEST,train,STATUS_REQUEST_3
+"Here is the copy of INV29545 you asked for, attached in PDF format. Best regards, Accounts Team.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_8
+"Hello, Sharing the invoice PDF for TI-69909; please confirm receipt. Thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_6
+Our company has a new point of contact for GST matters from January. Thank you.,CONTACT_CHANGE,train,CONTACT_CHANGE_5
+Dear Please arrange a call with your GST team to discuss GST/99740. Regards.,MEETING_REQUEST,train,MEETING_REQUEST_2
+"Respected Sir, Please arrange a call with your GST team to discuss INV-54191.",MEETING_REQUEST,train,MEETING_REQUEST_2
+"Dear Madam, This document is for a different branch of yours, registered under 36RTRLW4862L1ZQ. Best regards, Accounts Team.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_7
+"Hi, As discussed, we are sharing the signed copy of invoice BL29487 with this mail.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_2
+"Dear Madam, Our consultant will correct the tax amount for INV72118 in the coming month. Regards.",WILL_AMEND,train,WILL_AMEND_4
+"Dear Sir, Kindly give us some time, the correction for BL-95155 will reflect in next month's filing. Regards, Finance Dept.",WILL_AMEND,train,WILL_AMEND_2
+"dear madam, this was missed by our accounts team by mistake. we shall rectify it while filing gstr-1 for february. thanks and regards.",WILL_AMEND,train,WILL_AMEND_1
+"The difference in TI-33189 is because we issued a credit note of Rs 487,206 against it. Thanks and regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_0
+"Dear Madam, Let us discuss over a call, the mail thread for GST45265 is getting long. Thank you.",MEETING_REQUEST,test,MEETING_REQUEST_7
+"Hi, We have corrected the GSTIN on TI62344 and filed the amendment last week. Thanks and regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_1
+"Hi, Please find attached the invoice copy for GST43616 as requested.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_0
+"Hi, Credit note against GST69977 was reported separately in GSTR-1, hence the lower value. Thank you.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_4
+"Hello, an someone from your side join a call on the April reconciliation? Thanks and regards.",MEETING_REQUEST,train,MEETING_REQUEST_6
+"Dear Sir, We passed a credit note in May for GST64193, so net tax is lower than your books.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_9
+"respected sir, we do not agree with the difference shown. as per our books, ti81997 is correctly reported.",DISPUTES_DATA,train,DISPUTES_DATA_0
+"Hi, We accept the mismatch and will fix it in the next GSTR-1, which is due in November. Thanks and regards.",WILL_AMEND,train,WILL_AMEND_6
+"Dear Sir, This issue is already resolved. The revised invoice SI-71747 is now visible on the portal. Thanks and regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_2
+"Dear Sir, Our company has a new point of contact for GST matters from Apri. Thank you.",CONTACT_CHANGE,train,CONTACT_CHANGE_5
+The tax amount in your mail does not match our ledger. Kindly recheck TI/88826. Regards.,DISPUTES_DATA,train,DISPUTES_DATA_3
+"Dear Sir, Please verify your data, we never issued invoice GST/78772 in February. Thank you.",DISPUTES_DATA,test,DISPUTES_DATA_7
+"Dear Team, Attached are the tax invoice e-way bill for INV-7014. Kindly check. Thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_1
+"Hello, Please verify your data, we never issued invoice BL/16923 in April. Thanks and regards.",DISPUTES_DATA,test,DISPUTES_DATA_7
+"Dear Madam, Amendment done for SI/23050 in the March return. Kindly verify at your end.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_3
+"dear madam, we have reported inv-61819 correctly in gstr-1; the error is in your booking. thank you.",DISPUTES_DATA,train,DISPUTES_DATA_4
+"Dear Madam, We are awaiting your confirmation on the status of INV/94816. Please update. Regards, Finance Dept.",STATUS_REQUEST,train,STATUS_REQUEST_1
+"Dear Madam, Acknowledged. We will respond after internal review. Regards.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_9
+"Dear Madam, We billed BL/14037 under GSTIN 11DKJRQ4664F1ZK in error and are correcting the party details.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_6
+"Dear Sir, confirm whether you need anything more for SI-8165. Thanks and regards.",STATUS_REQUEST,test,STATUS_REQUEST_7
+"Please recheck, TI43827 was rectified in the October return and the status shows filed. Thank you.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_6
+"Respected Sir, Here is the copy of SI39628 you asked for, attached in PDF format. Best regards, Accounts Team.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_8
+We have noted the difference in invoice TI/50735 and will amend it in the August return. Regards.,WILL_AMEND,train,WILL_AMEND_0
+"Hi, Please adjust the credit note raised against BL-22945; it covers the full difference. Thank you.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_7
+"Dear Team, The invoice INV-6958 has already been amended in our GSTR-1 for February. Please check 2B again. Regards, Finance Dept.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_0
+"Respected Sir, We already updated the taxable for INV/27302 on the GST portal. Regards.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_7
+"Hi, Kindly give us some time, the correction for GST/28549 will reflect in next months filing.",WILL_AMEND,train,WILL_AMEND_2
+"Respected Sir, I am no longer handling this vendor account; my colleague will reply on GST3744. Regards, Finance Dept.",CONTACT_CHANGE,test,CONTACT_CHANGE_9
+"Dear Team, Attached are the tax invoice and e-way bill for INV95840. Kindly check. Regards, Finnce Dept.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_1
+"Dear Madam, Can you please confirm whether the issue for TI/33429 is resolved now? Regards.",STATUS_REQUEST,train,STATUS_REQUEST_0
+"Hello, Received with thanks. Will get back shortly. Regards.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_7
+Please note ur accounts contact has changed. Kindly write to the new team going forward. Regards.,CONTACT_CHANGE,train,CONTACT_CHANGE_0
+"Dear Madam, Thnks for the update, will look into it.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_3
+"The amount of Rs 586,948 you have booked is wrong; our invoice GST40834 says otherwise. Regards, Finance Dept.",DISPUTES_DATA,test,DISPUTES_DATA_8
+"Dear Sir, We do ot agree with the difference shown. As per our books, TI40967 is correctly reported. Best regards, Accounts Team.",DISPUTES_DATA,train,DISPUTES_DATA_0
+"Respected Sir, Kindly confirm whether you need anything more for SI-94423. Thanks and regards.",STATUS_REQUEST,test,STATUS_REQUEST_7
+"The reduction on TI-78283 is on account of a discount credit note of Rs 51,514.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_5
+"hello, the reduction on bl-16765 is on account of a discount credit note of rs 558,195. best regards, accounts team.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_5
+"Dear Sir, Attaching the relevant invoice BL-32760 and our ledger extract for May. Thanks and regards.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_9
+"Dear Team, The tax difference of Rs 718,456 on BL65876 was fixed in or last filing.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_5
+"Hello, Please verify your data, we never issued invoice GST-15334 in June. Regards, Finance Dept.",DISPUTES_DATA,test,DISPUTES_DATA_7
+"Dear Team, The mismatch reflects the credit note for short supply against invoice INV/30850. Regards, Finance Dept.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_8
+"Respected Sir, Thank for the information. We have noted it. Best regards, Accounts Team.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_0
+"Respected Sir, Kindly give us some time, the correction for GST/88806 will reflect in next month's filing. Thank you.",WILL_AMEND,train,WILL_AMEND_2
+We propose a meeting within 5 days to settle the open differences. Thanks and regards.,MEETING_REQUEST,test,MEETING_REQUEST_8
+"Respected Sir, Invoice SI-5424 was raised to a different GSTIN by mistake. We will issue a corrected one. Thanks and regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_0
+"Dear Team, Kindly share your phone number so we can discuss GST76459 directly. Regards, Finance Dept.",MEETING_REQUEST,train,MEETING_REQUEST_4
+"Dear Team, We fled the correction for INV19569 on time, it should reflect in your 2A now.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_4
+"Dear Sir, We have reported TI59543 correctly in GSTR-1; the error is in your booking. Best regards, Accounts Team.",DISPUTES_DATA,train,DISPUTES_DATA_4
+"Dear Team, Please note INV/92942 was issued to another party, not to your organisation. Regards, Finance Dept.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_8
+"Dear Madam, We already updated the taxable value for INV/88304 on the GST portal. Best regards, Accounts Team.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_7
+"Dear Madam, Noted your mail regarding INV61241, we will check. Regards.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_8
+"Dear Team, A credit note was raised for rate difference on GST-42060, which explains the mismatch. Thank you.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_1
+"Dear Madam, Received your mail, we will check and revert. Thanks and regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_1
+"Hello, Noted with thanks. Thanks regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_2
+"Dear Team, We do not agree with difference shown. As per our books, SI86140 is correctly reported. Thank you.",DISPUTES_DATA,train,DISPUTES_DATA_0
+"Dear Team, Enclosed herewith the documents for BL22737 your verification.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_4
+The ship-to and bill-to GSTIN on invoice SI-37113 were swapped by mistake. Thanks and regards.,WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_9
+"Our consultant will correct the tax amount for SI/95972 in the coming month. Regards, Finance Dept.",WILL_AMEND,train,WILL_AMEND_4
+"Hello, We accept the mismatch and will fix it in the next GSTR-1, which is due in November. Thanks and regards.",WILL_AMEND,train,WILL_AMEND_6
+"Dear Team, Here is the copy of TI/31497 you asked for, attached in PDF format.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_8
+"Hi, The mismatch was sorted out in September; nothing is pending from our side for INV-88574. Thank you.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_9
+"hi, invoice si/43193 was raised to a different gstin by mistake. we will issue a corrected one.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_0
+"Dear Sir, According to our reconciliation, nothing is wrong with SI-17015. Please review your entries. Thank you.",DISPUTES_DATA,test,DISPUTES_DATA_9
+"hello, okay, noted. our team will review. thank you.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_5
+"Dear Madam, Please update the vendor contact details, the new email is copied here. Thank you.",CONTACT_CHANGE,test,CONTACT_CHANGE_7
+"Hello, Please allow us till August to amend the details of GST-22012 on the portal. Best regards, Accounts Team.",WILL_AMEND,test,WILL_AMEND_8
+"The amount of Rs 365,624 you have booked is wrong; our invoice INV-3277 says otherwise. Regards, Finance Dept.",DISPUTES_DATA,test,DISPUTES_DATA_8
+"Respected Sir, We have reported GST/24321 correctly in GSTR-1; the error in your booking. Thank you.",DISPUTES_DATA,train,DISPUTES_DATA_4
+"Please remove me from this thread and send future reminders to our accounts head. Best regards, Accounts Team.",CONTACT_CHANGE,train,CONTACT_CHANGE_4
+"Dear Madam, We had issued a debit note for BL73653; that is why the values differ.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_3
+"Respected Sir, Please recheck, TI/51578 was rectified in the May return and the status shows filed. Best regards, Accounts Team.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_6
+"Hello, The invoice TI87159 was not reported earlier; it will included when we file for October. Thanks and regards.",WILL_AMEND,test,WILL_AMEND_7
+"Hello, According to our reconciliation, nothng is wrong with GST-40682. Please review your entries. Best regards, Accounts Team.",DISPUTES_DATA,test,DISPUTES_DATA_9
+"Respected Sir, Thanks for the update, will look into it. Thank you.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_3
+"Dear Sir, Invoice TI/33154 was raised to a different GSTIN by mistake. We will issue a corrected one. Thank you.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_0
+"Hi, Noted with thanks. Regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_2
+We are aware of the gap and plan to report GST23949 in our February filing without fail. Regards.,WILL_AMEND,test,WILL_AMEND_9
+"Hello, The invoice BL82542 belongs to your other plant; it was billed to GSTIN 20YHFLX2137F1ZF. Regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_1
+"Hello, Kindly give us some time, the correction for BL/13240 will reflect in next month's filing. Thank you.",WILL_AMEND,train,WILL_AMEND_2
+can you please confirm whether the issue for gst71411 is resolved now? thanks and regards.,STATUS_REQUEST,train,STATUS_REQUEST_0
+"dear sir, this issue is already resolved. the revised invoice inv55950 is now visible on the portal. regards, finance dept.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_2
+"Respected Sir, Noted with thanks. Regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_2
+"Respected Sir, The amount of Rs 721,755 you have booked is wrong; our invoice GST/24510 says otherwise. Thanks and regards.",DISPUTES_DATA,test,DISPUTES_DATA_8
+"respected sir, your records seem incorrect. invoice bl21958 was billed at rs 577,579, not the amount you mention. regards, finance dept.",DISPUTES_DATA,train,DISPUTES_DATA_1
+"Dear Team, Kindly confirm whether you need anything more for TI28769. Regards, Finance Dept.",STATUS_REQUEST,test,STATUS_REQUEST_7
+"This invoice was not for your company, it was raised to nother customer. Thank you.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_2
+"Dear Sir, The ship-to ad bill-to GSTIN on invoice GST23179 were swapped by mistake. Regards, Finance Dept.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_9
+"Dear Team, We would like to meet your accounts team to reconcile all open invoices. Regards.",MEETING_REQUEST,train,MEETING_REQUEST_3
+"Hello, Credit note against SI/68653 was reported separately in GSTR-1, hence the lower value. Regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_4
+This was missed by our accounts team by mistake. We shall rectify it while filing GSTR-1 for November.,WILL_AMEND,train,WILL_AMEND_1
+"Dear Madam, Part quantity of INV-35029 was returned and a credit note was issued for the same. Thanks and regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_6
+"Dear Team, We will upload the missing invoice SI21052 in our upcoming return for October. Regards.",WILL_AMEND,train,WILL_AMEND_3
+"Respected Sir, Credit note against INV/49815 was reported separately in GSTR-1, hence the lower value. Thank you.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_4
+"Dear Sir, I am no longer handling this vendor account; my colleague will reply on TI-68924. Thank you.",CONTACT_CHANGE,test,CONTACT_CHANGE_9
+"Respected Sir, Received with thanks. Will get back shortly.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_7
+"Hi, A credit note was raised for rate difference on TI/77402, which explains the mismatch. Thank you.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_1
+"Respected Sir, The invoice INV/41668 was not reported earlier; it will be included when we file for March. Thanks and regards.",WILL_AMEND,test,WILL_AMEND_7
+"The buyer name on TI-81995 is incorrect, it should have been your company. Best regards, Accounts Team.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_5
+"Respected Sir, PFA the scanned invoice INV-71513 along with the delivery challan. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_3
+"Respected Sir, We have reported BL40855 correctly in GSTR-1; the error is in your booking. Regards, Finance Dept.",DISPUTES_DATA,train,DISPUTES_DATA_4
+"Dear Madam, The amount of Rs 51,581 you have booked is wrong; our invoice GST/84394 says otherwise. Regards.",DISPUTES_DATA,test,DISPUTES_DATA_8
+"Hello, Please allow us till August to amend the details of TI/81031 on the portal. Thanks and regards.",WILL_AMEND,test,WILL_AMEND_8
+"dear madam, please arrange a call with your gst team to discuss inv-90254. thank you.",MEETING_REQUEST,train,MEETING_REQUEST_2
+"Hi, Kindly share your phone number so we can discuss INV7334 directly. Thanks and regards.",MEETING_REQUEST,train,MEETING_REQUEST_4
+"dear sir, noted with thanks. best regards, accounts team.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_2
+"Hello, This document is for a differet branch of yours, registered under 07JWURN5771P1ZC. Best regards, Accounts Team.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_7
+"Dear Sir, This invoice was not for your company, it was raised to another customer. Best regards, Accounts Team.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_2
+"Dear Madam, Please note SI/41863 was issued to another party, not to your organisation. Thank you.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_8
+"hello, acknowledged. we will respond after internal review.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_9
+"Hello, Acknowledged. We respond after internal review. Best regards, Accounts Team.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_9
+"respected sir, we will upload the missing invoice si/99567 in our upcoming return for october. regards, finance dept.",WILL_AMEND,train,WILL_AMEND_3
+"dear sir, the invoice gst46268 has already been amended in our gstr-1 for october. please check 2b again. regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_0
+"Hi, We had issued a debit note for INV/60917; that is why the values differ. Thanks and regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_3
+"Dear Sir, We billed TI/31394 under GSTIN 32RWNVM9903R1ZK in error and are correcting the party details.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_6
+"respected sir, please note inv-56797 was issued to another party, not to your organisation.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_8
+"Respected Sir, The invoice SI8263 has already been amended in our GSTR-1 for May. lease check 2B again.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_0
+"Dear Team, The buyer name on GST-44081 is incorrect, it should have been your company.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_5
+"Hello, Thank you for the information. We have noted it.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_0
+"Hello, Please adjust the credit note raised against GST40273; it covers the full difference. Best regards, Team.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_7
+"Dear Madam, We will upload the missing invoice GST/37655 in our upcoming return for January. Regards.",WILL_AMEND,train,WILL_AMEND_3
+"dear team, we are aware of the gap and plan to report ti39504 in our september filing without fail. thank you.",WILL_AMEND,test,WILL_AMEND_9
+"Dear Madam, Received with thanks. Will get back shortly. Best regards, Accounts Team.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_7
+"Please verify your data, we never issued invoice INV/94038 in December. Thank you.",DISPUTES_DATA,test,DISPUTES_DATA_7
+"Hello, According to our reconciliation, nothing is wrong with SI-31522. Please review your entries.Best regards, Accounts Team.",DISPUTES_DATA,test,DISPUTES_DATA_9
+"Hello, Acknowledged. We will respond after internal review.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_9
+"Hi, The ship-to and bill-to GSTIN on invoice SI83868 were swapped by mistake. Regards, Dept.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_9
+"Dear Madam, I have moved to another role. Please follow up with our finance team for BL42701. Thank you.",CONTACT_CHANGE,train,CONTACT_CHANGE_1
+"Hi, We have corrected the GSTIN on TI-53034 and filed the amendment last week. Best regards, Accounts Team.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_1
+"hello, we are aware of the gap and plan to report gst-75798 in our october filing without fail. thank you.",WILL_AMEND,test,WILL_AMEND_9
+"Hello, I have moved to another role. Please follow up with our finance team for TI/79544. Regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_1
+"respected sir, the difference in bl-97921 is because we issued a credit note of rs 838,250 against it. regards, finance dept.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_0
+"Dear Team, Attached are the tax invoice and e-way bill for TI/14751. Kindly check. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_1
+"Hi, Attached are the tax invoice and e-way bill for SI/1611. Kindly Regards, Finance Dept.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_1
+"Hi, We filed the correction for SI/10694 on time, it should reflect in your 2A now. Best regards, Accounts Team.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_4
+"Dear Sir, I have moved to another role. Please follow up with our finance team for SI/25756. Best regards, Accounts Team.",CONTACT_CHANGE,train,CONTACT_CHANGE_1
+"Dear Sir, We dispute the shared. Our ledger shows Rs 133,891 against GST/27504. Thanks and regards.",DISPUTES_DATA,train,DISPUTES_DATA_6
+"Dear Sir, Enclosed herewith the documents for GST/61666 for your verification. Thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_4
+"Hi, Your records seem incorrect. Invoice INV/73151 was billed at Rs 307,557, not the amount you mention. Regards.",DISPUTES_DATA,train,DISPUTES_DATA_1
+"Dear Madam, Attaching the relevant invoice BL/35413 and our ledger extract for May. Best regards, Accounts Team.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_9
+"Dear Team, We billed GST56902 under GSTIN 34EQKDY2965Q1ZP in error and are correcting the party details.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_6
+"Dear Sir, Kindly confirm whether you need anything more for INV/13335. Regards, Finance Dept.",STATUS_REQUEST,test,STATUS_REQUEST_7
+"Hi, Thanks for the update, will look into it. Thanks and regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_3
+"Hi, Thanks for the update, will look into it.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_3
+"Dear Team, Your records seem incorrect. Invoice TI38274 was billed at Rs 693,529, not the amount you mention. Thanks and regards.",DISPUTES_DATA,train,DISPUTES_DATA_1
+"Dear Madam, Noted. Amendment for GST/50131 will be done in the subsequent return period. Regards, Dept.",WILL_AMEND,train,WILL_AMEND_5
+please share the current status of the reconciliation for september. regards.,STATUS_REQUEST,train,STATUS_REQUEST_3
+"Dear Sir, Sharing the invoice PDF for GST-38655; please confirm receipt. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_6
+"Dear Sir, This document is for a different branch of yours, registered under 18RZHLW1747K1ZQ. Best regards, Accounts Team.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_7
+It will be easier to resolve this over a meeting. Please share a convenient time.,MEETING_REQUEST,train,MEETING_REQUEST_1
+"Dear Sir, We dispute the figures shared. ledger shows Rs 247,229 against SI16212.",DISPUTES_DATA,train,DISPUTES_DATA_6
+"Dear Madam, Your records seem incorrect. Invoice INV65679 was billed at Rs 227,908, not the amount you mention. Regards, Finance Dept.",DISPUTES_DATA,train,DISPUTES_DATA_1
+"Hello, The amount of Rs 528,335 you have booked is wrong; our invoice TI-29557 says otherwise. Thank you.",DISPUTES_DATA,test,DISPUTES_DATA_8
+"Hello, Is there any further action required from us for invoiceINV-21387? Thank you.",STATUS_REQUEST,train,STATUS_REQUEST_4
+"Hello, The buyer name on BL72857 is incorrect, it should have been your copany. Thanks and regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_5
+"Kindly direct all GST queries to our central accounts mailbox from now on. Regards, Finance Dept.",CONTACT_CHANGE,test,CONTACT_CHANGE_8
+"Hi, Acknowledged. We will respond after internal review. Thanks and regards.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_9
+"Dear Team, The gap of Rs 46,476 is due to the credit note issued in September against BL1760.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_2
+"We have reported INV14619 correctly in GSTR-1; the error is in your booking. Best regards, Accounts Team.",DISPUTES_DATA,train,DISPUTES_DATA_4
+"Respected Sir, Please the vendor contact details, the new email is copied here.",CONTACT_CHANGE,test,CONTACT_CHANGE_7
+"Dear Team, Thank you, we have forwarde this to the concerned person. Thank you.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_6
+"Hi, We do not agree with the difference shown. As per our books, BL71275 is correctly reported.",DISPUTES_DATA,train,DISPUTES_DATA_0
+Kindly let us know if anything is still pending from our side.,STATUS_REQUEST,train,STATUS_REQUEST_2
+"Hello, Noted your mail regarding SI/75261, we will Thank you.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_8
+"dear team, the invoice inv/67249 has already been amended in our gstr-1 for november. please check 2b again. best regards, accounts team.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_0
+"Hi, Noted. Amendment for TI/94926 will be done in the subsequent return period. Regards.",WILL_AMEND,train,WILL_AMEND_5
+"Hi, Attached are the tax invoice and e-way bill for INV/84928. Kindly check.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_1
+"Hello, Kindly give us some time, the correction for INV33662 will reflect in next month's filing. Best regards, Accounts Team.",WILL_AMEND,train,WILL_AMEND_2
+"Dear Madam, Enclosed herewith the documents for INV10882 for your verification. Best regards, Accounts Team.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_4
+"Adding our GST team in this mail, they will handle reconciliation from now. Thank you.",CONTACT_CHANGE,train,CONTACT_CHANGE_3
+Invoice TI-12536 was raised to a different GSTIN by mistake. We will issue a corected one. Thanks and regards.,WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_0
+"Dear Sir, Please advise if the matter regarding SI65985 has been closed at your end. Regards.",STATUS_REQUEST,test,STATUS_REQUEST_9
+"hi, correction for invoice inv88821 has been completed and is reflecting in gstr-2b.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_8
+"Dear Madam, We have noted the difference in invoice SI53350 and will amend it in the September return.",WILL_AMEND,train,WILL_AMEND_0
+Is there any further action required from us for invoice INV96742? Thanks and regards.,STATUS_REQUEST,train,STATUS_REQUEST_4
+"Hello, Please share the current status of the reconciliation for May. Best regards, Accounts Team.",STATUS_REQUEST,train,STATUS_REQUEST_3
+"Hello, Could you update us on whether the July differences are cleared? Thank you.",STATUS_REQUEST,test,STATUS_REQUEST_8
+"respected sir, please remove me from this thread and send future reminders to our accounts head.",CONTACT_CHANGE,train,CONTACT_CHANGE_4
+"hi, please note our accounts contact has changed. kindly write to the new team going forward. thank you.",CONTACT_CHANGE,train,CONTACT_CHANGE_0
+"Dear Team, Amendment done for BL/87413 in the November return. Kindly verify at your end.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_3
+"Hi, Adding our GST team in this mail, they will andle the reconciliation from now. Regards, Finance Dept.",CONTACT_CHANGE,train,CONTACT_CHANGE_3
+"Dear Madam, Received your mail, we will check and revert. Thank you.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_1
+"Hi, Please us know when your team is available to connect on GST97829. Regards.",MEETING_REQUEST,test,MEETING_REQUEST_9
+"Dear Team, Kindly see the it contains the invoice and credit note for SI8055. Regards.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_7
+"Dear Team, Attaching the relevant invoice and our ledger extract for November. Regards.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_9
+Please arrange a call with your GST team to discuss GST78152. Thank you.,MEETING_REQUEST,train,MEETING_REQUEST_2
+"Hi, The person handling this has left; please mark our tax consultant in future mails. Thanks and regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_6
+"dear team, thank you for the information. we have noted it. regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_0
+"Dear Request you to confirm if our earlier correction for BL-22694 is accepted. Best regards, Accounts Team.",STATUS_REQUEST,train,STATUS_REQUEST_5
+"Respected Sir, We propose a meeting within 5 days settle the open differences. Regards, Finance Dept.",MEETING_REQUEST,test,MEETING_REQUEST_8
+"Okay, noted. Our team will review. Thanks and regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_5
+"Adding our GST team in this mail, they will handle the reconciliation from now. Thank you.",CONTACT_CHANGE,train,CONTACT_CHANGE_3
+"hello, the invoice bl/82689 has already been amended in our gstr-1 for february. please check 2b again. best regards, accounts team.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_0
+"Hello, We have corrected the GSTIN on BL/20369 and the amendment last week. Regards, Finance Dept.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_1
+"Dear Madam, The mismatch was sorted out in September; nothing is pending our side for BL/25232.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_9
+"This mismatch is due to wrong entry at your end, our filing for GST-61245 is accurate. Regards, Finance Dept.",DISPUTES_DATA,train,DISPUTES_DATA_5
+"Dear Madam, This was missed by our accounts team by mistake. We shall rectify it while filing GSTR-1 for October. Regards, Finance Dept.",WILL_AMEND,train,WILL_AMEND_1
+"dear team, can you please confirm whether the issue for si/22516 is resolved now? thank you.",STATUS_REQUEST,train,STATUS_REQUEST_0
+"Dear Team, Adding our GST team in this mail, they will handle the reconciliation from now. Best regards, Accounts Team.",CONTACT_CHANGE,train,CONTACT_CHANGE_3
+"Respected Sir, We dispute the figures shared. Our ledger shows Rs 178,690 against BL-84623. Thnk you.",DISPUTES_DATA,train,DISPUTES_DATA_6
+"Dear Team, We dispute the figures shared. Our ledger shows Rs 826,454 against BL76396. Thank you.",DISPUTES_DATA,train,DISPUTES_DATA_6
+"Hello, The invoice GST79148 was not reported earlier; it will be included when we file for May. Best regards, Accounts Team.",WILL_AMEND,test,WILL_AMEND_7
+"dear madam, noted with thanks. best regards, accounts team.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_2
+"Hello, The invoice SI/44785 belongs to your other plant; it was billed to GSTIN 17CFXAV6769R1ZU. Regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_1
+"hi, the invoice si/52496 belongs to your other plant; it was billed to gstin 18rgfgm5718y1zv.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_1
+"Hello, Please verify your data, we never issued invoice SI89022 in May. Regards.",DISPUTES_DATA,test,DISPUTES_DATA_7
+"Hello, Noted. Amendment for BL/60682 will be done in the subsequent return period. Regards, Finance Dept.",WILL_AMEND,train,WILL_AMEND_5
+"Respected Sir, Kindly let us know if anything is still pending from our side. Regards.",STATUS_REQUEST,train,STATUS_REQUEST_2
+"Dear Sir, We are awaiting your confirmation on the status of SI-24121. Please update.",STATUS_REQUEST,train,STATUS_REQUEST_1
+"respected sir, we filed the correction for inv-57489 on time, it should reflect in your 2a now. thank you.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_4
+"Hello, Noted. Amendment for GST/45548 will be done in the subsequent return period. Thanks and regards.",WILL_AMEND,train,WILL_AMEND_5
+"PFA the scanned invoice BL-34901 along with the delivery challan. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_3
+"Hi, The gap of Rs 614,627 is due to the credit note issued in February against BL/74825.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_2
+"Dear Sir, Please adjust the note raised against GST-4890; it covers the full difference.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_7
+"Respected Sir, Please arrange a call with your GST team to discuss SI77108. Best regards, Accounts Team.",MEETING_REQUEST,train,MEETING_REQUEST_2
+"respected sir, the difference in bl/92700 is because we issued a credit note of rs 332,363 against it. thanks and regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_0
+"Dear Team, Amendment done for TI-66517 in the October return. Kindly verify at your end.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_3
+"Dear Team, Thank you, we have forwarded this to the concerned person. Regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_6
+"Dear Sir, It will be easier to resolve this over a meeting. Please share a convenient time.",MEETING_REQUEST,train,MEETING_REQUEST_1
+"Hello, The invoice GST/81658 has already been amended in our GSTR-1 for October. Please check 2B again. Thanks and regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_0
+"Dear We dispute the figures shared. Our ledger shows Rs 676,685 against TI6651. Regards.",DISPUTES_DATA,train,DISPUTES_DATA_6
+"Respected Sir, Okay, noted. Our team will review. Thank you.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_5
+"Dear Team, I am no longer handling this vendor account; my colleague will reply on GST-46890. Regards, Finance Dept.",CONTACT_CHANGE,test,CONTACT_CHANGE_9
+"Dear Sir, Noted with thanks. Regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_2
+"Dear Team, Enclosed herewith the documents for GST-16023 your verification.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_4
+"Hi, Our consultant will correct the tax amount for TI28659 in the coming month. Best regards, Accounts Team.",WILL_AMEND,train,WILL_AMEND_4
+"Hello, Sharing the invoice PDF for INV28623; please confirm receipt. Best regards, Accounts Team.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_6
+"Dear Team, This issue is already resolved. The revised invoice BL-55206 is now visible on the portal. Regards, Finance Dept.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_2
+"Hi, Credit note against GST/2035 was reported separately in GSTR-1, hence the lower value. Thanks and regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_4
+"Respected Sir, Our consultant will correct the tax amount for BL65722 in the coming month. Regards, Finance Dept.",WILL_AMEND,train,WILL_AMEND_4
+"Dear Sir, We dispute the figures shared. Our ledger shows Rs 494,369 against TI/29922. Thank you.",DISPUTES_DATA,train,DISPUTES_DATA_6
+"Dear Madam, As discussed, we are sharing the signed copy of invoice SI/42426 with this Best regards, Accounts Team.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_2
+"Respected Sir, Kindly let us know if anything is still pending from our side. Best regards, Accounts Team.",STATUS_REQUEST,train,STATUS_REQUEST_2
+"hello, we billed bl49480 under gstin 30nlqfs5576d1zh in error and are correcting the party details. thanks and regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_6
+"Dear Madam, This invoice was not for your company, it was raised to another customer.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_2
+"Hello, Let us discuss over a call, the thread for TI-42958 is getting long. Regards, Finance Dept.",MEETING_REQUEST,test,MEETING_REQUEST_7
+"Dear Sir, The invoice INV33629 belongs to your other plant; it was billed to GSTIN 08BBUJH2078T1ZD. Best regards, Accounts Team.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_1
+"Dear Sir, Kindly update our email ID in your records; the old mailbox is no longer monitored. Regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_2
+"Hi, There is no such invoce BL-1538 raised by us. Please check your purchase register. Regards.",DISPUTES_DATA,train,DISPUTES_DATA_2
+"Hello, Please adjust the credit note raised against INV-2610; it covers the full difference. Regards, Finance Dept.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_7
+"dear team, enclosed herewith the documents for ti75299 for your verification. thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_4
+"Dear Team, Please find attached invoice copy for BL/84284 as requested. Thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_0
+"Respected Sir, Please update the vendor contact details, the new email is copied here. Best regards, Accounts Team.",CONTACT_CHANGE,test,CONTACT_CHANGE_7
+"Hello, According to our reconciliation, nothing is wrong with SI/92505. Please review your entries.",DISPUTES_DATA,test,DISPUTES_DATA_9
+"Hi, Plese recheck, TI79774 was rectified in the January return and the status shows filed. Thank you.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_6
+"Hi, Kindly give us some time, the correction for TI63216 will in next month's filing. Thanks and regards.",WILL_AMEND,train,WILL_AMEND_2
+"Dear Sir, We acknowledge receipt of your reminder for December. Best regards, Accounts Team.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_4
+"hello, attached are the tax invoice and e-way bill for si-81127. kindly check.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_1
+"Respected Sir, Could you update us on whether the July differences are cleared? Regards, Finance Dept.",STATUS_REQUEST,test,STATUS_REQUEST_8
+"Respected Sir, We dispute the figures shared. Our ledger shows Rs 503,588 against TI12892. Regards, Finance Dept.",DISPUTES_DATA,train,DISPUTES_DATA_6
+"Respected Sir, We have noted the difference in invoice TI56392 and will amend it in the September return.",WILL_AMEND,train,WILL_AMEND_0
+"Hi, We have corrected the GSTIN on GST47437 and filed the amendment last week. Regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_1
+"Dear Team, Invoice BL-17293 was billed to your unit in another state, please check that GSTIN. Thank you.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_4
+"respected sir, please advise if the matter regarding inv-69386 has been closed at your end. thanks and regards.",STATUS_REQUEST,test,STATUS_REQUEST_9
+"Dear Sir, This invoice was not for your company, it was raised to another customer. Best regards, Accounts Team.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_2
+"Hello, The tax amount in your mail does not match our ledger. Kindly recheck BL17697. Best regards, Accounts Team.",DISPUTES_DATA,train,DISPUTES_DATA_3
+"Respected Sir, Can someone from your side join a call on the November reconciliation? Thank you.",MEETING_REQUEST,train,MEETING_REQUEST_6
+"Hello, Attached are the tax invoice and e-way bill for GST-93349. Kindly check. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_1
+"dear madam, invoice ti80709 was billed to your unit in another state, please check that gstin. regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_4
+"Dear Team, The mismatch reflects the credit note for short supply against invoice TI/9384. Regards, Finance Dept.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_8
+"Hello, We have attached the GSTR-1 filing screenshot showing BL/93470. Thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_5
+"Hi, Please let us know when your team available to connect on BL98242. Thank you.",MEETING_REQUEST,test,MEETING_REQUEST_9
+"Dear Sir, Request you to confirm if our earlier correction for GST-93466 is accepted. Thanks and regards.",STATUS_REQUEST,train,STATUS_REQUEST_5
+"this was missed by our accounts team by mistake. we shall rectify it while filing gstr-1 for september. best regards, accounts team.",WILL_AMEND,train,WILL_AMEND_1
+"Respected Sir, Can we schedule a call to discuss the differences for May? Best regards, Accounts Team.",MEETING_REQUEST,train,MEETING_REQUEST_0
+"Dear Sir, PFA the scanned invoice TI-6475 along with the challan. Regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_3
+"Dear Sir, This document is for a different branch of yours, registered under 34DSNRB3571K1ZK. Regards, Finance Dept.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_7
+"Respeced Sir, Request a short video call this week to close the pending mismatches. Thanks and regards.",MEETING_REQUEST,train,MEETING_REQUEST_5
+"Dear Sir, The mismatch reflects the credit note for short supply against invoice GST-55938. Thanks and regards.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_8
+"Hi, The tax difference of Rs 407,833 on GST19528 was fixed in our last filing. Regards, Finance Dept.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_5
+"Hi, We already updated the taxable value for GST-49741 on the GST portal. Best regards, Accounts Team.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_7
+"We do not agree with the difference shown. As per books, TI-72620 is correctly reported. Thanks and regards.",DISPUTES_DATA,train,DISPUTES_DATA_0
+"Respected Sir, The mismatch reflects the credit note for short supply against invoice SI/66213. Best regards, Accounts Team.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_8
+"Hello, We have attached the GSTR-1 filing screenshot showing SI48925. Thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_5
+"Dear Team,We already updated the taxable value for SI-78580 on the GST portal. Thank you.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_7
+"Noted your mail regarding TI-1273, we will check. Regards.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_8
+"Dear Team, We are awaiting your confirmation on the status of GST/14130. Please update. Thank you.",STATUS_REQUEST,train,STATUS_REQUEST_1
+"Dear Team, Please update the vendor contact details, the new email is copied here. Regards.",CONTACT_CHANGE,test,CONTACT_CHANGE_7
+"dear madam, we do not agree with the difference shown. as per our books, ti-41501 is correctly reported. regards, finance dept.",DISPUTES_DATA,train,DISPUTES_DATA_0
+"Hello, Kindly us some time, the correction for GST-77099 will reflect in next month's filing. Best regards, Accounts Team.",WILL_AMEND,train,WILL_AMEND_2
+"This mismatch is due to wrong entry at your end, our filing for INV-83924 is accurate. Regards.",DISPUTES_DATA,train,DISPUTES_DATA_5
+"Hi, Kindly confirm whether you need anything more for BL-66821.",STATUS_REQUEST,test,STATUS_REQUEST_7
+"Dear Team, Invoice TI-2990 was billed to your unit in another state, please check that GSTIN. Thanks and regards.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_4
+"Hello, Adding our GST team in this mail, they will handle the reconciliation from now. Thanks and regards.",CONTACT_CHANGE,train,CONTACT_CHANGE_3
+"Dear Sir, Kindly share your phone number so we discuss SI92382 directly. Thanks and regards.",MEETING_REQUEST,train,MEETING_REQUEST_4
+"Respected Sir, Can you please confirm whether the issue for TI79390 is now?",STATUS_REQUEST,train,STATUS_REQUEST_0
+"dear sir, we accept the mismatch and will fix it in the next gstr-1, which is due in may. thanks and regards.",WILL_AMEND,train,WILL_AMEND_6
+"Dear Sir, Please let us know when your team is available to connect on SI-22176. Thank you.",MEETING_REQUEST,test,MEETING_REQUEST_9
+"The tax amount in your mail does not match our ledger. Kindly recheck SI32031. Best regards, Accounts Team.",DISPUTES_DATA,train,DISPUTES_DATA_3
+"Dear Team, The gap of Rs 418,733 is due to the credit note issued in May against BL50989. Regards, Finance Dept.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_2
+Please remove me from this thread and send future reminders to our accounts head. Regards.,CONTACT_CHANGE,train,CONTACT_CHANGE_4
+"Respected Sir, Can we schedule a call to discuss the differences for June? Best regards, Accounts Team.",MEETING_REQUEST,train,MEETING_REQUEST_0
+"Respected Sir, Could you update us on whether the November differences are cleared? Regards.",STATUS_REQUEST,test,STATUS_REQUEST_8
+"Dear Team, PFA the scanned invoice INV/62122 along with the delivery challan.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_3
+"The person handling this has left; please mark our tax consultant in future mails. Regards, Finance Dept.",CONTACT_CHANGE,train,CONTACT_CHANGE_6
+Noted. Aendment for INV-83727 will be done in the subsequent return period.,WILL_AMEND,train,WILL_AMEND_5
+"Hi, Please find attached the invoice copy for GST/55862 as requested. Thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_0
+"dear team, the invoice bl89470 was not reported earlier; it will be included when we file for february. thanks and regards.",WILL_AMEND,test,WILL_AMEND_7
+"Hi, We do not agree with the difference shown. As per our books, TI-24209 is correctly reported. Thanks and regards.",DISPUTES_DATA,train,DISPUTES_DATA_0
+"Hello, As discussed, we are sharing the signed copy of invoice SI/32574 with this mail. Best regards, Accounts Team.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_2
+"We already updated the axable value for INV-21658 on the GST portal. Regards, Finance Dept.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_7
+"Hello, Please note GST-7840 was issued to another party, not to your organisation. Thank you.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_8
+"Dear Team, The buyer name on TI-43701 is incorrect, it should have been your company. Thank you.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_5
+"Respected Sir, Please let us know when your team is available to connect on BL/1352. Best regards, Accounts Team.",MEETING_REQUEST,test,MEETING_REQUEST_9
+"Respected Sir, The mismatch was sorted out in November; nothing is pending from our side for GST/69116. Thanks and regards.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_9
+"Dear Madam, The tax difference of Rs 196,541 on INV14336 was fixed in our last filing. Thank you.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_5
+"dear madam, we would like to meet your accounts team to reconcile all open invoices.",MEETING_REQUEST,train,MEETING_REQUEST_3
+"Dear Sir, We are aware of the gap and plan to report SI/34246 in our March filing without fail.",WILL_AMEND,test,WILL_AMEND_9
+"Respected Sir, PFA the scanned invoice INV77756 along with the delivery challan. Thank you.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_3
+"Hello, I am no longer handling this vendor account; my colleague will reply on INV-83350. Regards, Dept.",CONTACT_CHANGE,test,CONTACT_CHANGE_9
+"Hi, The ship-to and bill-to GSTIN on invoice BL-99572 were swapped by mistake. Thanks and regards.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_9
+"Dear Sir, Request a short video call this week close the pending mismatches. Regards, Finance Dept.",MEETING_REQUEST,train,MEETING_REQUEST_5
+"Hi, Please find attached the invoice copy for BL/18779 as reuested. Regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_0
+"Hello, Sharing the invoice PDF for GST/74680; please confirm receipt. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_6
+"Hello, This mismatch is due to wrong entry at your end, our filing for SI59891 is accurate. Regards, Finance Dept.",DISPUTES_DATA,train,DISPUTES_DATA_5
+"Hello, The mismatch was sorted out in May; nothing is pending from our side for TI-56492. Best regards, Accounts Team.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_9
+"Dear Sir, We have attached the GSTR-1 filing screenshot showing BL/26525.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_5
+"Respected Sir, We have attached the GSTR-1 filing screenshot showing BL-95960. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_5
+"dear madam, please allow us till march to amend the details of si-78993 on the portal. thanks and regards.",WILL_AMEND,test,WILL_AMEND_8
+"Hi, This document is for a different branch of yours, registered under 15BRJPK6535E1ZB. Best regards, Accounts Team.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_7
+"Enclosed herewith the documents for TI54194 for your verification. Best regards, Accounts Team.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_4
+"Dear Sir, The mismatch was sorted out in May; nothing is pending from our side for TI/40171. Regards.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_9
+"Dear Sir, The tax difference of s 539,903 on GST/76069 was fixed in our last filing. Regards, Finance Dept.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_5
+"Dear Madam, noted. Our team will review.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_5
+"Dear Team, Request a short video call this week to close the pending mismatches. Best regards, Accounts Team.",MEETING_REQUEST,train,MEETING_REQUEST_5
+"dear team, we filed the correction for inv-36123 on time, it should reflect in your 2a now. thanks and regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_4
+"Dear Team, Thank for the information. We have noted it. Thanks and regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_0
+"Dear Sir, Please note our accounts contact has changed. Kindly write to the new team going forward.",CONTACT_CHANGE,train,CONTACT_CHANGE_0
+"Hi, We have noted the difference in invoice INV/41306 and will amend it in the July return. Thank you.",WILL_AMEND,train,WILL_AMEND_0
+"Respected Sir, The tax amount in your mail does not match our ledger. Kindly recheck GST51173. Thanks and regards.",DISPUTES_DATA,train,DISPUTES_DATA_3
+"Dear Madam, We are aware of the ga and plan to report BL-70397 in our September filing without fail.",WILL_AMEND,test,WILL_AMEND_9
+"Dear Sir, There is no such invoice BL-62039 raied by us. Please check your purchase register. Best regards, Accounts Team.",DISPUTES_DATA,train,DISPUTES_DATA_2
+Received wit thanks. Will get back shortly.,ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_7
+"Respected Sir, Please adjust the credit note raised against TI-84958; it covers the full difference. Best regards, Accounts Team.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_7
+"dear madam, received your mail, we will check and revert. regards.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_1
+"dear team, the tax amount in your mail does not match our ledger. kindly recheck bl/81352. regards.",DISPUTES_DATA,train,DISPUTES_DATA_3
+"Respected Sir, We are awaiting your confirmation on the status of INV/89219. Please update. Regards, Finance Dept.",STATUS_REQUEST,train,STATUS_REQUEST_1
+"Dear Sir, The tax difference of Rs 449,465 on GST80988 was fixed in our last filing. Thanks and regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_5
+"Dear Team, Our consultant will correct the tax amount for GST-8146 in the coming month. Regards.",WILL_AMEND,train,WILL_AMEND_4
+Please advise if the mater regarding SI/87410 has been closed at your end. Regards.,STATUS_REQUEST,test,STATUS_REQUEST_9
+"Hi, Here is the copy of BL-10027 you asked for, attached in PDF format. Regards.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_8
+"dear sir, please let us know when your team is available to connect on bl94944. regards, finance dept.",MEETING_REQUEST,test,MEETING_REQUEST_9
+"Dear Team, We will upload the missing invoice SI/3260 in our upcoming return for May. Thank you.",WILL_AMEND,train,WILL_AMEND_3
+"Hi, The tax difference of Rs 663,621 on SI/19634 was fixed in our last filing. Thanks and regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_5
+"Dear Sir, This mismatch is due to wrong entry at your end, our filing for BL5931 is accurate.",DISPUTES_DATA,train,DISPUTES_DATA_5
+"Dear Sir, Kindly see the attachment, it contains the invoice and credit note for INV-18907.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_7
+"Dear Madam, Please advise if the matter regarding BL/17891 has been closed at your end.",STATUS_REQUEST,test,STATUS_REQUEST_9
+"Dear Team, e have corrected the GSTIN on SI/63888 and filed the amendment last week.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_1
+"Hello, Kindly direct all GST queries to our central accounts mailbox from now on. Best regards, Accounts Team.",CONTACT_CHANGE,test,CONTACT_CHANGE_8
+"Hi, Correction for invoice SI14242 has been completed and is reflecting in GSTR-2B. Best regards, Accounts Team.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_8
+"Hello, Is there any further action required from us for invoice INV/33472? Regards, Finance Dept.",STATUS_REQUEST,train,STATUS_REQUEST_4
+"Dear Sir, Amendment done for SI71852 in the September return. Kindly verify at your end.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_3
+"Hello, We billed BL76999 under GSTIN 28KLNLF3346B1ZZ in error and are correcting the party details. Best regards,Accounts Team.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_6
+"Dear Sir, The difference in GST40309 is because we issued a credit note of Rs 696,184 against it.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_0
+"Dear Sir, We are awaiting your confirmation on the status of SI55149. Please update. Best regards, Accounts Team.",STATUS_REQUEST,train,STATUS_REQUEST_1
+"Dear Team, Please adjust the credit note raised against GST50271; covers the full difference. Thank you.",CREDIT_NOTE_EXPLANATION,test,CREDIT_NOTE_EXPLANATION_7
+"Dear Madam, Kindly give us some time, the correction for GST11561 will reflect in next month's filing. Thank you.",WILL_AMEND,train,WILL_AMEND_2
+"Respected Sir, We have reported SI/89931 correctly in GSTR-1; the error is n your booking.",DISPUTES_DATA,train,DISPUTES_DATA_4
+"we accept the mismatch and will fix it in the next gstr-1, which is due in may. thank you.",WILL_AMEND,train,WILL_AMEND_6
+"dear team, the invoice si-90783 has already been amended in our gstr-1 for october. please check 2b again. best regards, accounts team.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_0
+"Hello, This document is for a different branch of yours, registered under 13FTNYH5754F1ZM. Regards.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_7
+"Dear Sir, It will be easier to resolve this over a meeting. Please share a convenient time. Regards.",MEETING_REQUEST,train,MEETING_REQUEST_1
+"Hello, The difference in BL-76608 is because we issued a note of Rs 223,797 against it. Regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_0
+"Your records seem incorrect. Invoice TI-25227 was billed at Rs 58,238, not the amount you mention. Thank you.",DISPUTES_DATA,train,DISPUTES_DATA_1
+"Respected Sir, Invoice GST60509 was raised to a different by mistake. We will issue a corrected one. Thank you.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_0
+"Hello, Received with thanks. Will get back shortly. Regards, Finance Dept.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_7
+We wrongly mentioned buyer GSTIN 28SGCUA2576G1ZB on GST-27370. Kindly ignore it. Thanks and regards.,WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_3
+"Hi, This mismatch is due to wrong entry at your end, our filing for INV48435 is accurate. Thank you.",DISPUTES_DATA,train,DISPUTES_DATA_5
+"Hello, Please advise if the matter regarding GST60097 has been closed at your end. Best regards, Accounts Team.",STATUS_REQUEST,test,STATUS_REQUEST_9
+please remove me from this thread and send future reminders to our accounts head. thank you.,CONTACT_CHANGE,train,CONTACT_CHANGE_4
+"Hello, Let us discuss over a call, mail thread for SI4003 is getting long. Thank you.",MEETING_REQUEST,test,MEETING_REQUEST_7
+"Dear Sir, Thank you, we have forwarded this to the concerned person.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_6
+"Dear Madam, Okay, noted. Our team will review. Regards, Finance Dept.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_5
+"Hi, Please let know when your team is available to connect on SI-27733. Thank you.",MEETING_REQUEST,test,MEETING_REQUEST_9
+"Hello, I am no longer handling this vendor account; my colleague will reply on INV/10094. Best regards, Accounts Team.",CONTACT_CHANGE,test,CONTACT_CHANGE_9
+"Thanks for the update, will look into it.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_3
+Kindly share your phone number so we can discuss BL-2398 directly. Regards.,MEETING_REQUEST,train,MEETING_REQUEST_4
+"Dear Madam, The reduction on INV83589 is on account of a discount credit note of Rs Best regards, Accounts Team.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_5
+"Hello, The invoice SI/16096 was not reported earlier; it will be included when we file for October. Best regards, Accounts Team.",WILL_AMEND,test,WILL_AMEND_7
+"dear team, we accept the mismatch and will fix it in the next gstr-1, which is due in december. regards.",WILL_AMEND,train,WILL_AMEND_6
+"Dear Sir, Attaching the relevant invoice INV83862 and our ledger extract for October.",DOCUMENTS_SUBMITTED,test,DOCUMENTS_SUBMITTED_9
+"Respected Sir, There is no such invoice GST63797 raised by us. Please check your purchase register. Thank you.",DISPUTES_DATA,train,DISPUTES_DATA_2
+"Dear Madam, We like to meet your accounts team to reconcile all open invoices.",MEETING_REQUEST,train,MEETING_REQUEST_3
+"Dear Team, We are aware of the gap and plan to report GST/68552 in our October filing without fail.",WILL_AMEND,test,WILL_AMEND_9
+"This document is for a different branch of yours, registered under 22EWCDT3773G1ZR. Regards.",WRONG_BUYER_GSTIN,test,WRONG_BUYER_GSTIN_7
+"Dear Sir, This invoice was not for your company, it was raised to another customer. Best regards, Accounts Team.",WRONG_BUYER_GSTIN,train,WRONG_BUYER_GSTIN_2
+"Respected Sir, As discussed, we are sharing the signed copy of invoice L-98309 with this mail. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_2
+"Dear Madam, Please recheck, BL23645 was rectified in the November return and the status shows filed. Thanks and regards.",ALREADY_CORRECTED,train,ALREADY_CORRECTED_6
+Our consultant will correct the tax amount for TI/54955 in the coming month. Thank you.,WILL_AMEND,train,WILL_AMEND_4
+"Hi, We have attached the GSTR-1 filing screenshot showing BL16444. Bet regards, Accounts Team.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_5
+"As discussed, we are sharing the copy of invoice GST/8113 with this mail. Regards, Finance Dept.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_2
+"A credit note was raised for rate difference on BL30977, explains the mismatch. Thanks and regards.",CREDIT_NOTE_EXPLANATION,train,CREDIT_NOTE_EXPLANATION_1
+"Dear Madam, Noted your mail regarding BL/34769, we will check. Thanks and regards.",ACKNOWLEDGEMENT,test,ACKNOWLEDGEMENT_8
+"dear sir, request a short video call this week to close the pending mismatches. thank you.",MEETING_REQUEST,train,MEETING_REQUEST_5
+We propose a meeting within days to settle the open differences.,MEETING_REQUEST,test,MEETING_REQUEST_8
+"Respected Sir, PFA the scanned invoice SI10452 along with the delivery challan. Thanks and regards.",DOCUMENTS_SUBMITTED,train,DOCUMENTS_SUBMITTED_3
+"Dear Team, Request you to confirm if our earlier correction for BL77449 is accepted. Regards.",STATUS_REQUEST,train,STATUS_REQUEST_5
+"Hi, Thanks for the update, will look into it.",ACKNOWLEDGEMENT,train,ACKNOWLEDGEMENT_3
+"Dear Sir, We dispute the figures shared. Our ledger shows Rs 503,050 against INV/70615. Regards.",DISPUTES_DATA,train,DISPUTES_DATA_6
+"Hi, The mismatch was sorted out in June; nothing is pending from our side for INV/86673. Regards, Finance Dept.",ALREADY_CORRECTED,test,ALREADY_CORRECTED_9

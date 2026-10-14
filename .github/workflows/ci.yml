@@ -1,0 +1,54 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python-version: ["3.10", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+
+      - name: Install CPU-only PyTorch and dependencies
+        run: |
+          pip install torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -r requirements-dev.txt
+
+      - name: Lint
+        run: ruff check src tests data
+
+      - name: Unit tests
+        run: pytest -q
+
+      - name: Regenerate dataset and check it is unchanged
+        run: |
+          python data/generate_dataset.py
+          git diff --exit-code data/vendor_replies.csv
+
+      - name: Smoke-train both models
+        run: PYTHONPATH=src python -m vrc.run_experiment --epochs 3 --seeds 1 --out /tmp/smoke --models /tmp/smoke
+
+      # Regression gate, not a target: thresholds sit a few points below the
+      # documented results (baseline 0.74, PyTorch 0.68 +/- 0.03 macro-F1), so CI
+      # fails if a change makes either model clearly worse.
+      - name: Full experiment and quality gate
+        run: |
+          PYTHONPATH=src python -m vrc.run_experiment --out /tmp/results --models /tmp/models
+          python - <<'EOF'
+          import json, sys
+          m = json.load(open("/tmp/results/metrics.json"))
+          base = m["baseline_tfidf_logreg"]["macro_f1"]
+          torch_f1 = m["pytorch_embeddingbag"]["macro_f1_mean"]
+          print(f"baseline macro-F1 {base}, PyTorch macro-F1 (5-seed mean) {torch_f1}")
+          sys.exit(0 if base >= 0.68 and torch_f1 >= 0.60 else 1)
+          EOF
